@@ -1,0 +1,44 @@
+{
+  "generatedAt": "2026-06-28T11:00:16.496Z",
+  "source": {
+    "name": "Image Prompt Gallery",
+    "url": "https://imagepromptgallery.com",
+    "api": "https://imagepromptgallery.com/api/public/prompts?domain=video&model=seedance-2-0",
+    "upstreamRepository": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+    "openRepository": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
+    "exportSource": "public-content-api"
+  },
+  "count": 5,
+  "prompts": [
+    {
+      "id": "case_seedance_2_0_0403577b0219",
+      "slug": "no-4-live-action-anime-adaptation-water-vs-thunder-breathing-duel-seedance-2-0",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_7d0bb3ccecd7",
+      "slug": "no-5-seedance-2-0-80-year-old-rapper-mv-seedance-2-0",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_bd4ed44e0e82",
+      "slug": "no-3-modern-rural-aesthetics-healing-short-film-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_dc994eb1c345",
+      "slug": "no-1-seedance-2-0-15-second-cinematic-japanese-romance-short-film-seedance-2-0",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_ff070320c988",
+      "slug": "no-2-hollywood-haute-couture-fantasy-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    }
+  ]
+}
