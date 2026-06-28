@@ -1,52 +1,328 @@
 {
-  "generatedAt": "2026-06-28T16:14:43.988Z",
-  "count": 4,
+  "generatedAt": "2026-06-28T16:55:26.036782Z",
+  "count": 30,
   "categories": [
-    {
-      "slug": "motion-and-action",
-      "title": "Motion and action",
-      "count": 7,
-      "promptSlugs": [
-        "seedance-2-0-15-second-cinematic-japanese-romance-short-film-seedance-2-0-1402",
-        "seedance-2-0-80-year-old-rapper-mv-seedance-2-0-1403",
-        "live-action-anime-adaptation-water-vs-thunder-breathing-duel-seedance-2-0-189",
-        "hollywood-haute-couture-fantasy-video-prompt-seedance-2-0-594",
-        "seedance-video-prompt-seedance-2-0-6541",
-        "vlog-seedance-2-0-6552",
-        "fpv-seedance-2-0-6553"
-      ]
-    },
     {
       "slug": "general-video-prompt",
       "title": "General video prompt",
-      "count": 5,
+      "count": 17,
       "promptSlugs": [
+        "no-1-seedance-2-0-15-second-cinematic-japanese-romance-short-film-seedance-2-0",
+        "no-2-hollywood-haute-couture-fantasy-video-prompt-seedance-2-0",
+        "no-3-modern-rural-aesthetics-healing-short-film-video-prompt-seedance-2-0",
         "no-4-live-action-anime-adaptation-water-vs-thunder-breathing-duel-seedance-2-0",
         "no-5-seedance-2-0-80-year-old-rapper-mv-seedance-2-0",
-        "no-3-modern-rural-aesthetics-healing-short-film-video-prompt-seedance-2-0",
-        "no-1-seedance-2-0-15-second-cinematic-japanese-romance-short-film-seedance-2-0",
-        "no-2-hollywood-haute-couture-fantasy-video-prompt-seedance-2-0"
+        "seedance-2-0-15-seedance-2-0",
+        "seedance-2-0-80-mv-seedance-2-0",
+        "seedance-2-0-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "fpv-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "asmr-seedance-2-0"
+      ]
+    },
+    {
+      "slug": "2d",
+      "title": "2D 动画",
+      "count": 8,
+      "promptSlugs": [
+        "2d-seedance-2-0",
+        "don-bluth-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "2d-mv-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0"
+      ]
+    },
+    {
+      "slug": "ugc",
+      "title": "UGC / 口播广告",
+      "count": 8,
+      "promptSlugs": [
+        "15-ugc-seedance-2-0",
+        "ai-seedance-2-0",
+        "ai-seedance-2-0",
+        "stridex-ugc-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "ugc-seedance-2-0",
+        "ugc-seedance-2-0"
+      ]
+    },
+    {
+      "slug": "video-prompt",
+      "title": "动漫",
+      "count": 7,
+      "promptSlugs": [
+        "80-seedance-2-0",
+        "x-seedance-2-0",
+        "zareya-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0"
+      ]
+    },
+    {
+      "slug": "video-prompt",
+      "title": "奇幻 / 魔法",
+      "count": 7,
+      "promptSlugs": [
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "pov-seedance-2-0"
+      ]
+    },
+    {
+      "slug": "video-prompt",
+      "title": "定格动画",
+      "count": 7,
+      "promptSlugs": [
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "360-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0"
+      ]
+    },
+    {
+      "slug": "video-prompt",
+      "title": "中国水墨",
+      "count": 6,
+      "promptSlugs": [
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0"
+      ]
+    },
+    {
+      "slug": "video-prompt",
+      "title": "纪录片",
+      "count": 5,
+      "promptSlugs": [
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "pov-seedance-2-0",
+        "4k-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0"
+      ]
+    },
+    {
+      "slug": "vfx",
+      "title": "抽象 / VFX",
+      "count": 4,
+      "promptSlugs": [
+        "fpv-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0"
+      ]
+    },
+    {
+      "slug": "logo",
+      "title": "文字 / Logo",
+      "count": 4,
+      "promptSlugs": [
+        "monster-energy-rafael-leao-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "logo-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0"
+      ]
+    },
+    {
+      "slug": "pv",
+      "title": "游戏宣传片 / PV",
+      "count": 4,
+      "promptSlugs": [
+        "gta-6-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "cg-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0"
       ]
     },
     {
       "slug": "brand-and-product-ads",
       "title": "Brand and product ads",
-      "count": 4,
+      "count": 3,
       "promptSlugs": [
-        "modern-rural-aesthetics-healing-short-film-video-prompt-seedance-2-0-288",
-        "vlog-seedance-2-0-6544",
+        "seedance-video-prompt-seedance-2-0-6556",
         "seedance-video-prompt-seedance-2-0-6546",
-        "seedance-video-prompt-seedance-2-0-6556"
+        "vlog-seedance-2-0-6544"
       ]
     },
     {
       "slug": "video-prompt",
-      "title": "Video prompt",
+      "title": "产品",
       "count": 3,
       "promptSlugs": [
-        "seedance-video-prompt-seedance-2-0-6530",
-        "seedance-video-prompt-seedance-2-0-6532",
-        "seedance-video-prompt-seedance-2-0-6545"
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0"
+      ]
+    },
+    {
+      "slug": "video-prompt",
+      "title": "复古 / 怀旧胶片",
+      "count": 3,
+      "promptSlugs": [
+        "vlog-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0"
+      ]
+    },
+    {
+      "slug": "video-prompt",
+      "title": "电影级写实风格",
+      "count": 3,
+      "promptSlugs": [
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0"
+      ]
+    },
+    {
+      "slug": "video-prompt",
+      "title": "美食 / 饮品",
+      "count": 3,
+      "promptSlugs": [
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0"
+      ]
+    },
+    {
+      "slug": "video-prompt",
+      "title": "赛博朋克 / 科幻",
+      "count": 3,
+      "promptSlugs": [
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0"
+      ]
+    },
+    {
+      "slug": "video-prompt",
+      "title": "超现实 / 梦境",
+      "count": 3,
+      "promptSlugs": [
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0",
+        "dj-seedance-2-0"
+      ]
+    },
+    {
+      "slug": "video-prompt",
+      "title": "人群 / 群体",
+      "count": 2,
+      "promptSlugs": [
+        "fpv-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0"
+      ]
+    },
+    {
+      "slug": "video-prompt",
+      "title": "城市 / 街景",
+      "count": 2,
+      "promptSlugs": [
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0"
+      ]
+    },
+    {
+      "slug": "video-prompt",
+      "title": "讲解 / 教程",
+      "count": 2,
+      "promptSlugs": [
+        "seedance-video-prompt-seedance-2-0",
+        "seedance-video-prompt-seedance-2-0"
+      ]
+    },
+    {
+      "slug": "motion-and-action",
+      "title": "Motion and action",
+      "count": 1,
+      "promptSlugs": [
+        "vlog-seedance-2-0-6552"
+      ]
+    },
+    {
+      "slug": "vlog",
+      "title": "Vlog / 生活记录",
+      "count": 1,
+      "promptSlugs": [
+        "seedance-video-prompt-seedance-2-0"
+      ]
+    },
+    {
+      "slug": "video-prompt",
+      "title": "交通工具",
+      "count": 1,
+      "promptSlugs": [
+        "seedance-video-prompt-seedance-2-0"
+      ]
+    },
+    {
+      "slug": "video-prompt",
+      "title": "动物 / 宠物",
+      "count": 1,
+      "promptSlugs": [
+        "seedance-video-prompt-seedance-2-0"
+      ]
+    },
+    {
+      "slug": "video-prompt",
+      "title": "建筑 / 室内",
+      "count": 1,
+      "promptSlugs": [
+        "seedance-video-prompt-seedance-2-0"
+      ]
+    },
+    {
+      "slug": "video-prompt",
+      "title": "自然 / 风景",
+      "count": 1,
+      "promptSlugs": [
+        "seedance-video-prompt-seedance-2-0"
+      ]
+    },
+    {
+      "slug": "video-prompt",
+      "title": "运动 / 动作",
+      "count": 1,
+      "promptSlugs": [
+        "seedance-video-prompt-seedance-2-0"
+      ]
+    },
+    {
+      "slug": "video-prompt",
+      "title": "音乐视频",
+      "count": 1,
+      "promptSlugs": [
+        "k-pop-seedance-2-0"
+      ]
+    },
+    {
+      "slug": "video-prompt",
+      "title": "频道片头 / 品牌素材",
+      "count": 1,
+      "promptSlugs": [
+        "seedance-video-prompt-seedance-2-0"
       ]
     }
   ]
