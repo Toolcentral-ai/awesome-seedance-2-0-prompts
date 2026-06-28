@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T16:55:26.036782Z",
+  "generatedAt": "2026-06-28T17:18:40.053821Z",
   "count": 12,
   "prompts": [
     {
@@ -22,7 +22,8 @@
         "type": "video",
         "url": "https://cms-assets.youmind.com/media/1781837916326_0h310a_2D-Anime-Pigeon-Comedy.mp4",
         "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-3dcd9d8ea6997e44a196.jpg",
-        "alt": "2D 动漫鸽子喜剧 Seedance 2.0 video prompt preview"
+        "alt": "2D 动漫鸽子喜剧 Seedance 2.0 video prompt preview",
+        "durationSeconds": 15
       },
       "source": {
         "caseUrl": "https://imagepromptgallery.com/cases/2d-seedance-2-0",
@@ -54,7 +55,8 @@
         "type": "video",
         "url": "https://cms-assets.youmind.com/media/1782028031738_opdorm_Don-Bluth-Style-Egyptian-Anubis-Animation.mp4",
         "thumbnailUrl": "https://pbs.twimg.com/media/HLQeHWAXoAAIZ6w.jpg",
-        "alt": "Don Bluth 风格埃及阿努比斯动画 Seedance 2.0 video prompt preview"
+        "alt": "Don Bluth 风格埃及阿努比斯动画 Seedance 2.0 video prompt preview",
+        "durationSeconds": null
       },
       "source": {
         "caseUrl": "https://imagepromptgallery.com/cases/don-bluth-seedance-2-0",
@@ -87,7 +89,8 @@
         "type": "video",
         "url": "https://cms-assets.youmind.com/media/1781837989050_26lz28_Cartoon-Fight-Scene-Animation-Frame.mp4",
         "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-ed5f4170c05d8f46f4a5.jpg",
-        "alt": "卡通战斗场景动画帧 Seedance 2.0 video prompt preview"
+        "alt": "卡通战斗场景动画帧 Seedance 2.0 video prompt preview",
+        "durationSeconds": 5
       },
       "source": {
         "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
@@ -120,7 +123,8 @@
         "type": "video",
         "url": "https://cms-assets.youmind.com/media/1782115001426_gjqvkc_Anime-Dance-with-Hand-Drawn-Crayon-Effects.mp4",
         "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2068447584491130880/img/RSYDyWdZsmfr-6x-.jpg",
-        "alt": "带有手绘蜡笔特效的动漫舞蹈 Seedance 2.0 video prompt preview"
+        "alt": "带有手绘蜡笔特效的动漫舞蹈 Seedance 2.0 video prompt preview",
+        "durationSeconds": 15
       },
       "source": {
         "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
@@ -152,7 +156,8 @@
         "type": "video",
         "url": "https://cms-assets.youmind.com/media/1782287146066_blnpmf_Dancing-Kittens-with-Mittens-Cartoon.mp4",
         "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2069335436737323008/img/aFOvMnJPToeJ9OQi.jpg",
-        "alt": "戴着连指手套跳舞的小猫卡通 Seedance 2.0 video prompt preview"
+        "alt": "戴着连指手套跳舞的小猫卡通 Seedance 2.0 video prompt preview",
+        "durationSeconds": null
       },
       "source": {
         "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
@@ -184,7 +189,8 @@
         "type": "video",
         "url": "https://cms-assets.youmind.com/media/1781781306581_a2xt2l_Glitched-2D-Anime-MV-Montage.mp4",
         "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-766224cba5f2c31a2542.jpg",
-        "alt": "故障艺术风格 2D 动漫 MV 剪辑 Seedance 2.0 video prompt preview"
+        "alt": "故障艺术风格 2D 动漫 MV 剪辑 Seedance 2.0 video prompt preview",
+        "durationSeconds": null
       },
       "source": {
         "caseUrl": "https://imagepromptgallery.com/cases/2d-mv-seedance-2-0",
@@ -217,7 +223,8 @@
         "type": "video",
         "url": "https://cms-assets.youmind.com/media/1782459920822_3nzcx4_Snappy-Anime-Character-Animation.mp4",
         "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2070073598870786049/img/yagOC-dRhsTNAZq3.jpg",
-        "alt": "灵动动漫角色动画 Seedance 2.0 video prompt preview"
+        "alt": "灵动动漫角色动画 Seedance 2.0 video prompt preview",
+        "durationSeconds": 2
       },
       "source": {
         "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
@@ -250,7 +257,8 @@
         "type": "video",
         "url": "https://cms-assets.youmind.com/media/1781781352308_vrojsp_Sketch-Characters-Arguing-Animation.mp4",
         "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-294de62d7da3fabcbe52.jpg",
-        "alt": "素描角色争吵动画 Seedance 2.0 video prompt preview"
+        "alt": "素描角色争吵动画 Seedance 2.0 video prompt preview",
+        "durationSeconds": 2
       },
       "source": {
         "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
@@ -283,7 +291,8 @@
         "type": "video",
         "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/6556.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=StKX3wA6kAUE%2BnJfDbQYJadty9E%3D",
         "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/6556.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=5W1i60jOB3Ouxao1AC%2F7wU3VavM%3D",
-        "alt": "动态节奏运镜舞蹈 Seedance 2.0 video prompt preview"
+        "alt": "动态节奏运镜舞蹈 Seedance 2.0 video prompt preview",
+        "durationSeconds": null
       },
       "source": {
         "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0-6556",
@@ -316,7 +325,8 @@
         "type": "video",
         "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/6546.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=a01vEa0p46Du2jkfRO9Zvq31T84%3D",
         "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/6546.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=k6zXn43T9IphRn9s8ZdyyigdeEo%3D",
-        "alt": "清爽欧洲小镇汽水广告 Seedance 2.0 video prompt preview"
+        "alt": "清爽欧洲小镇汽水广告 Seedance 2.0 video prompt preview",
+        "durationSeconds": null
       },
       "source": {
         "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0-6546",
@@ -349,7 +359,8 @@
         "type": "video",
         "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/6544.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=PJyYYeosCRUVbBPwQoe0%2BaK2Cfg%3D",
         "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/6544.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=D3g3F8CMeupwn1KoJsdn8NNeDMc%3D",
-        "alt": "电影感晨间生活方式 Vlog Seedance 2.0 video prompt preview"
+        "alt": "电影感晨间生活方式 Vlog Seedance 2.0 video prompt preview",
+        "durationSeconds": null
       },
       "source": {
         "caseUrl": "https://imagepromptgallery.com/cases/vlog-seedance-2-0-6544",
@@ -381,7 +392,8 @@
         "type": "video",
         "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/dc994eb1c345.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=82VcCzS07HXmRVXEyb2k7%2FDU%2F7E%3D",
         "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/dc994eb1c345.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=E6%2BlB67YgKBeVPibCONs6%2FzsBmc%3D",
-        "alt": "No. 1: Seedance 2.0: 15-Second Cinematic Japanese Romance Short Film Seedance 2.0 video prompt preview"
+        "alt": "No. 1: Seedance 2.0: 15-Second Cinematic Japanese Romance Short Film Seedance 2.0 video prompt preview",
+        "durationSeconds": 4
       },
       "source": {
         "caseUrl": "https://imagepromptgallery.com/cases/no-1-seedance-2-0-15-second-cinematic-japanese-romance-short-film-seedance-2-0",
