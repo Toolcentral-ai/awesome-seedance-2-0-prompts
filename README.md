@@ -6,8 +6,8 @@ Reusable Seedance 2.0 video prompts exported from Image Prompt Gallery.
 - Public API: https://imagepromptgallery.com/api/public/prompts?domain=video&model=seedance-2-0
 - Upstream attribution: https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts
 - Open repository target: https://github.com/Toolcentral-ai/awesome-seedance-2-prompts
-- Prompt count: 14
-- Generated at: 2026-06-28T13:59:37.129Z
+- Prompt count: 19
+- Generated at: 2026-06-28T16:14:43.988Z
 - Schema version: 2026-06-28
 
 ## Data files
@@ -23,8 +23,10 @@ Reusable Seedance 2.0 video prompts exported from Image Prompt Gallery.
 
 ## Categories
 
-- Video prompt: 9
+- Motion and action: 7
 - General video prompt: 5
+- Brand and product ads: 4
+- Video prompt: 3
 
 ## Featured prompts
 
