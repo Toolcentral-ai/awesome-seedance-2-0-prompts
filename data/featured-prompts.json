@@ -1,5 +1,398 @@
 {
-  "generatedAt": "2026-06-28T16:14:43.988Z",
-  "count": 0,
-  "featured": []
+  "generatedAt": "2026-06-28T16:55:26.036782Z",
+  "count": 12,
+  "prompts": [
+    {
+      "id": "case_seedance_2_0_5984",
+      "slug": "2d-seedance-2-0",
+      "title": "2D 动漫鸽子喜剧",
+      "category": "2D 动画",
+      "tags": [
+        "2D 动画",
+        "Video prompt",
+        "General video prompt",
+        "Seedance 2.0"
+      ],
+      "model": "seedance-2-0",
+      "domain": "video",
+      "generationMode": "text-to-video",
+      "durationSeconds": 15,
+      "prompt": "I want to create a short 15 second scene in a 2D animation style at 12fps. A young man is walking down the street when pigeon poop suddenly falls on his shoulder. He looks up and sees the pigeon laughing at him. Then, for a brief moment, we see a pair of shoes flying in and hitting the pigeon on the head while it is still laughing. A ‘zzzzz’ anime-style effect appears to show that the pigeon is dizzy and shaken by the impact. Then the young man takes a tissue from his messenger bag, wipes off the poop, and continues walking with a proud look on his face.",
+      "media": {
+        "type": "video",
+        "url": "https://cms-assets.youmind.com/media/1781837916326_0h310a_2D-Anime-Pigeon-Comedy.mp4",
+        "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-3dcd9d8ea6997e44a196.jpg",
+        "alt": "2D 动漫鸽子喜剧 Seedance 2.0 video prompt preview"
+      },
+      "source": {
+        "caseUrl": "https://imagepromptgallery.com/cases/2d-seedance-2-0",
+        "upstreamUrl": "https://x.com/patrickassale/status/2065432461077512682"
+      },
+      "attribution": {
+        "sourceName": "Awesome Seedance 2.0 Video Prompts",
+        "upstreamRepository": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+        "license": "CC-BY-4.0 for prompt data; keep upstream and IPG attribution."
+      },
+      "riskNotice": "Commercial use requires checking the original source, upstream license, model provider terms, and any depicted brand/person/IP rights."
+    },
+    {
+      "id": "case_seedance_2_0_6270",
+      "slug": "don-bluth-seedance-2-0",
+      "title": "Don Bluth 风格埃及阿努比斯动画",
+      "category": "2D 动画",
+      "tags": [
+        "2D 动画",
+        "Video prompt",
+        "General video prompt",
+        "Seedance 2.0"
+      ],
+      "model": "seedance-2-0",
+      "domain": "video",
+      "generationMode": "text-to-video",
+      "prompt": "经典的唐·布鲁斯动画风格。场景一：在埃及宫殿内，我们看到两个人类盗贼带着一顶金冠逃跑，一位人类法老在几米外注视着他们，愤怒地指着他们大声喊道：“阿努比斯，追上去！”然而我们只听到阿努比斯的咯咯笑声，这让法老大吃一惊。法老转过头，看到以下景象：稳住镜头，威猛的胡狼神阿努比斯跪倒在地，双臂高举，双手抱头，闭着眼睛咯咯地笑着。一个人类盗贼蹲在地上，用羽毛轻柔流畅地在阿努比斯的腋窝上上下拂动。场景二：盗贼继续用羽毛挠阿努比斯的腋窝，阿努比斯咯咯地笑着，盗贼一边说着“咯咯咯”，一边扭动着上半身，但双手仍然抱在头上，腋窝敞开着，任由羽毛挠痒。场景三：盗贼继续用羽毛挠阿努比斯的腋窝，阿努比斯咯咯地笑着，扭动着身体。场景四：盗贼停止挠阿努比斯的腋窝，阿努比斯还发出几声咯咯的笑声。人类盗贼也逃走了，阿努比斯慢慢坐起身，双臂环抱着自己，脸上仍带着一丝被挠痒痒的坏笑，略显疲惫。场景5：镜头切换到法老，阿努比斯双手背在身后，以威严的姿态出现在他身边，神情既漫不经心又严肃，对法老说：“看来他们逃走了，主人。”法老失望地低下头，说道：“我看到了。”阿努比斯是一只黑色的拟人化肌肉发达的胡狼，手臂和脖子上都戴着环。对话为英语。",
+      "media": {
+        "type": "video",
+        "url": "https://cms-assets.youmind.com/media/1782028031738_opdorm_Don-Bluth-Style-Egyptian-Anubis-Animation.mp4",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HLQeHWAXoAAIZ6w.jpg",
+        "alt": "Don Bluth 风格埃及阿努比斯动画 Seedance 2.0 video prompt preview"
+      },
+      "source": {
+        "caseUrl": "https://imagepromptgallery.com/cases/don-bluth-seedance-2-0",
+        "upstreamUrl": "https://x.com/migrok293703/status/2068311058935091444"
+      },
+      "attribution": {
+        "sourceName": "Awesome Seedance 2.0 Video Prompts",
+        "upstreamRepository": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+        "license": "CC-BY-4.0 for prompt data; keep upstream and IPG attribution."
+      },
+      "riskNotice": "Commercial use requires checking the original source, upstream license, model provider terms, and any depicted brand/person/IP rights."
+    },
+    {
+      "id": "case_seedance_2_0_5951",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "title": "卡通战斗场景动画帧",
+      "category": "2D 动画",
+      "tags": [
+        "2D 动画",
+        "Video prompt",
+        "General video prompt",
+        "Seedance 2.0"
+      ],
+      "model": "seedance-2-0",
+      "domain": "video",
+      "generationMode": "text-to-video",
+      "durationSeconds": 5,
+      "prompt": "Frame 1 - THE MEETING (1.5s): 28mm anamorphic lens f/2.8, fast aggressive dolly push-in at ground level, hero boy blue aura and evil clone red aura slowly expanding toward each other, purple energy crackling where auras meet, stormy cartoon sky above with lightning,",
+      "media": {
+        "type": "video",
+        "url": "https://cms-assets.youmind.com/media/1781837989050_26lz28_Cartoon-Fight-Scene-Animation-Frame.mp4",
+        "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-ed5f4170c05d8f46f4a5.jpg",
+        "alt": "卡通战斗场景动画帧 Seedance 2.0 video prompt preview"
+      },
+      "source": {
+        "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
+        "upstreamUrl": "https://x.com/itsshara_ai/status/2065021850657468648"
+      },
+      "attribution": {
+        "sourceName": "Awesome Seedance 2.0 Video Prompts",
+        "upstreamRepository": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+        "license": "CC-BY-4.0 for prompt data; keep upstream and IPG attribution."
+      },
+      "riskNotice": "Commercial use requires checking the original source, upstream license, model provider terms, and any depicted brand/person/IP rights."
+    },
+    {
+      "id": "case_seedance_2_0_6314",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "title": "带有手绘蜡笔特效的动漫舞蹈",
+      "category": "2D 动画",
+      "tags": [
+        "2D 动画",
+        "Video prompt",
+        "General video prompt",
+        "Seedance 2.0"
+      ],
+      "model": "seedance-2-0",
+      "domain": "video",
+      "generationMode": "audio-driven",
+      "durationSeconds": 15,
+      "prompt": "参照画像のキャラクターを主人公として使用。15秒、24fps。日本のフルカラーアニメ。劇場版アニメのような高品質な作画。作画枚数多め。バズりそうな、可愛さ強めの短尺ダンス動画。主人公は参照画像のキャラクター本人。参照画像に写っている髪型、髪色、瞳、顔立ち、体格、年齢感、衣装の印象、アクセサリー、全体の雰囲気を維持する。背景は明るく可愛い、整理された教室風またはスタジオ風の空間。人物が主役に見えるよう、背景はシンプルだが、ポップで爽やかな空気感を持つ。\n\n楽曲：日本語の歌。ただし実在する楽曲は使用してはいけない\n\n映像コンセプト：主人公が、可愛いダンスを踊る。可愛さ最優先。少しあざとく、親しみやすく、カメラに向かって踊っている感覚を強く出す。AEで作ったような2Dフラットアニメーションが、ダンスの動きに合わせて出現する。エフェクトはクレヨンやオイルパステルで描いたような、手描き感のある可愛いイラスト。丸、星、ハート、花、音符、矢印、リボン、王冠、キラキラ、波線、ぐるぐる線、吹き出し風の囲み、チェック模様、斜線、ハーフトーンドットなど。すべて平面的な2Dアニメーション。配色はピンク、水色、黄色、白、ラベンダー、ミントグリーンを中心に、参照画像のキャラクターと調和する可愛い色彩。\n\nカメラ構成：5台のカメラで撮影しているような構成。カメラは固定ではなく、2秒ごとにカメラが切り替わる。使用するカメラは、正面カメラ、上からのカメラ、左からのカメラ、右からのカメラ、背後からのカメラ。カメラが切り替わっても、主人公は常にレンズを意識し、常にカメラ目線を維持する。正面以外のカメラでも、顔の向きや首のひねり、視線の返しで、必ずレンズを見ている。背後カメラの時は、肩越しに振り返ってカメラ目線にする。バズを意識し、画角に変化があり、テンポが良く、見ていて飽きないカメラワーク。各カメラは完全静止ではなく、ビートに合わせて軽く揺れる。上下の小さなバウンス、短いパンチイン、わずかな左右揺れなど、音ハメされた可愛いカメラシェイクを入れる。手持ちのような雑な揺れではなく、意図的で見やすい揺れ。\n\nダンス内容：可愛くて真似しやすいダンス。左右に軽くステップ、胸の前で両手ハート、片手ハート、ほっぺ横ピース、両手を頬の横でふわっと開く、指差し、肩を小さく跳ねる、腰を軽く左右へ振る、片足を出して戻す、小さなターン、最後にウィンク。上半身の見せ場を多めにし、短尺で印象に残る振り付け。ダンス中は常にカメラ目線で、視聴者に向かって踊っている感覚を強く出す。\n\n15秒タイムライン：\n0.0〜2.0秒：正面カメラ。主人公が中央で立ち、リズムを取りながら、胸の前で両手ハートを作り、左右に小さくステップする。カメラは軽く上下にバウンス。手元と顔まわりに、クレヨンのハート、星、丸、短いキラキラ線がポンポンと出現する。常に正面からカメラ目線。\n2.0〜4.0秒：上からのカメラ。少し俯瞰ぎみの可愛いアングル。主人公が見上げるようにカメラ目線を保ちながら、ほっぺ横ピース、片手ハート、指差しをテンポよく行う。顔の周囲に、王冠、花、ハート、吹き出し風の囲みが出現する。見上げた表情を可愛く見せる。\n4.0〜6.0秒：左からのカメラ。主人公は身体を少し左向きにしながらも、顔と視線はレンズへ向ける。腰を軽く左右に振り、片手を頬に添え、もう片方で小さく手を振る。手の軌跡に沿って、クレヨンのリボン状ライン、音符、波線、星が出現する。カメラはビートに合わせて小さく横揺れ。\n6.0〜8.0秒：右からのカメラ。主人公は反対側へ身体を向けつつ、カメラ目線を維持する。肩をリズミカルに弾ませ、両手を上げて下ろし、片足を軽く出して戻す。足元と肩まわりに、花、丸、チェック模様、ハーフトーンドット、キラキラが弾ける。可愛い音ハメのパンチインを短く入れる。\n8.0〜10.0秒：背後からのカメラ。主人公の背中側から始まるが、肩越しにくるっと振り返って、しっかりカメラ目線。小さなターンを入れながら、振り返りざまに指差し、ハート、軽い投げキッス風の仕草を見せる。背後カメラから見える髪や衣装の動きに合わせて、ぐるぐる線、星、リボン、ハートがふわっと出現する。\n10.0〜12.0秒：正面カメラに戻る。ここはサビ感のある盛り上がり。両手を大きく開いてから胸元へ戻し、左右へ弾むように小さく跳ねる。画面の左右や背後に、大きめのハート、星、花、王冠、キラキラ、斜線が増え、可愛さを最大化する。決めのたびに短いカメラシェイク。\n12.0〜14.0秒：上からのカメラに再び切り替え。主人公は見上げながら、顔の前で両手をふわっと開き、片手でハートを作り、もう片手を頬の横に添える。クレヨンの囲み、ハート、花、チェック模様、ラフな円形ラインが背景に広がる。ここでも常にカメラ目線。\n14.0〜15.0秒：最後は正面寄りのヒーローショット。主人公がバストアップ気味に映り、少し前へ出るように見せる。にっこり笑ってから、最後にウィンク。ウィンクの瞬間、目元からクレヨンの四芒星、ハート、放射線、リボン状ラインが可愛く弾ける。カメラはごく短くパンチインして止まり、バズりそうな決めカットで終了する。\n\nAE風2Dアニメーションの演出：すべてのエフェクトはAfter Effectsで制作したような2Dフラットアニメーション。ただし質感はクレヨンやオイルパステルで描いたようなラフで可愛い手描き感。動きは、出現、バウンス、拡大、縮小、回転、時間差、ふわっとした消え方。エフェクトはダンスの手、顔まわり、足元、身体の動きと同期して出現する。人物の顔や身体を隠しすぎず、あくまで可愛さとテンポを強化する補助として使う。\n\n制約：主人公以外の人物を出さない。参照画像のキャラクターの雰囲気、顔立ち、髪型、髪色、瞳、体格、年齢感を維持する。別キャラクター化しない。衣装を勝手に変更しない。5台カメラ構成を明確にし、2秒ごとにカメラを切り替える。正面、上、左、右、背後のカメラを必ず使用する。どのカメラでも主人公は必ずカメラ目線を維持する。背後カメラでも肩越しに振り返ってレンズを見る。エフェクトはクレヨンで描いたような可愛い2D手描き感を持たせる。実写的な爆発、炎、煙、過剰なグリッチを使わない。主人公の顔をエフェクトで隠しすぎない。文字、字幕、ロゴ、透かしを表示しない。26:T1159,使用参考图中的角色作为主角。15 秒，24fps。日本全彩动漫。具有剧场版动画的高质量风格。高帧率。一段旨在走红的可爱风短舞蹈视频。主角即为参考图中的角色本身。保持参考图中的发型、发色、眼睛、面部特征、体型、年龄、服装印象、配饰以及整体氛围。背景为一个明亮可爱、整洁的教室或工作室空间。背景保持简洁以突出人物，同时营造出活泼清新的氛围。\n\n音乐：日本歌曲。不得使用现有的真实歌曲。\n\n视觉概念：主角表演可爱的舞蹈。优先考虑可爱感。略带俏皮、友好，强烈传达出对着镜头跳舞的感觉。配合舞蹈动作同步出现类似 After Effects 制作的 2D 平面动画。特效为手绘的可爱插画，具有蜡笔或油画棒的质感。包括圆圈、星星、爱心、花朵、音符、箭头、丝带、皇冠、闪光、波浪线、漩涡线、对话框边框、棋盘格、斜线、半调网点等。均为平面 2D 动画。配色方案以粉色、浅蓝色、黄色、白色、淡紫色和薄荷绿为中心，与角色的配色相协调。\n\n摄像机构图：采用 5 机位设置。摄像机不固定，每 2 秒切换一次。使用的摄像机角度：正面、顶部（高角度）、左侧、右侧和背面。无论摄像机角度如何，主角始终保持对镜头的关注并进行眼神交流。即使在非正面角度，也要通过转头或移动视线来注视镜头。在背面角度时，要回头看向镜头。适合病毒式传播的运镜，角度多样且节奏感强。摄像机并非静止，而是随着节拍轻微晃动，伴有小幅垂直跳动、短促的推近镜头和轻微的左右摇摆。这是刻意且干净的摄像机晃动，而非杂乱无章。\n\n舞蹈内容：可爱且易于模仿的舞蹈。轻快的侧步、胸前比心、单手比心、脸颊比耶、脸颊旁张开双手、指点动作、小幅肩部跳动、轻盈的臀部摇摆、腿部前后摆动、小转圈，最后以眨眼结束。重点在于上半身动作，以在短时间内产生高冲击力。始终保持眼神交流，仿佛直接为观众跳舞。\n\n15 秒时间轴：\n0.0-2.0s：正面摄像机。主角位于中心，保持节奏，在胸前比心并伴有小侧步。轻微的垂直摄像机晃动。手部和脸部周围出现蜡笔质感的爱心、星星和圆圈。保持正面眼神交流。\n2.0-4.0s：顶部摄像机。略带高角度的可爱镜头。抬头注视镜头，做出脸颊比耶、单手比心和指点动作。脸部周围出现皇冠、花朵和气泡边框。\n4.0-6.0s：左侧摄像机。身体略向左转，但脸部和视线朝向镜头。臀部摇摆，一手贴脸，另一手挥动。蜡笔丝带线、音符和星星跟随手部动作。轻微的侧向摄像机摇摆。\n6.0-8.0s：右侧摄像机。身体向右转，保持眼神交流。有节奏的肩部跳动、手臂动作和脚步。花朵、圆圈和半调网点在脚部和肩部迸发。短促的节拍匹配推近镜头。\n8.0-10.0s：背面摄像机。从背面开始，但转身回头看向镜头。小转圈并伴有指点动作和手指比心或飞吻手势。头发和衣服周围出现漩涡线和星星。\n10.0-12.0s：回到正面摄像机。高能量部分。双臂张开，小幅跳动。更大的爱心、星星和花朵增加，以最大化可爱感。每个动作都伴有短促的摄像机晃动。\n12.0-14.0s：回到顶部摄像机。抬头，脸颊旁张开双手，单手比心。边框、爱心和花朵在背景中散开。持续的眼神交流。\n14.0-15.0s：正面特写镜头。半身近景。微笑并以眨眼结束。蜡笔质感的四角星、爱心和丝带从眼睛处迸发。短促推近并定格在最终的病毒式传播画面上。\n\nAE 风格 2D 动画指导：所有特效均为平面 2D 动画，仿佛由 After Effects 制作，但带有粗糙的手绘蜡笔/油画棒质感。动作包括出现、弹跳、缩放、旋转和淡出。特效与手部、脸部、脚部和身体动作同步，且不遮挡面部。\n\n约束条件：除主角外没有其他人。保持参考图中的角色连贯性（脸部、头发、眼睛、年龄、服装）。不要更换角色或服装。使用每 2 秒切换一次的 5 机位构图。始终保持眼神交流。仅限使用蜡笔手绘风格特效。没有写实的火焰、烟雾或过度的故障效果。没有文字、字幕或标志。27:T503,A 15-second hybrid live-action and 2D-animated action sequence shot on gritty 35mm film inside a dim industrial office with gray concrete weapon-rack walls, a steel desk, toppled office chairs, dust haze, and cold halo backlight; the protagonist is the exact young Southeast Asian man from reference, wearing the same black futuristic tactical suit with cyan glowing piping, triangular chest emblem, utility belt, thigh holster, gloves, and armored boots, calm and composed throughout. Open with a low-angle wide standoff as burly Asian men in leather jackets and tactical gear surround him and the camera slowly dollies in for 3 seconds; cut to a 4-second tight bullet-time close-up as a fired round slices past his face and he leans back in a Matrix-like dodge, hair lifting while rack focus shifts from bullet to his unshaken eyes; cut to a 3-second medium side-tracking fight beat as he whips a high kick into a thug’s chin and carries the momentum through the room; cut to a 2-second straight-down surveillance-camera overhead in grainy black-and-white as he drops multiple attackers with lightning-fast precision; finish with a 3-second slow push-in close-up as he walks toward camera adjusting his backpack, defeated thugs behind him, then turns with a cold confident smile.28:T653,PART 1 — “THE MORNING OF THE MATCH”\n\nCut A (0–5s): Jessy wakes up in her origami-paper bedroom as the alarm shows “MATCH DAY,” sunlight glowing through folded curtains, she smiles and says, “Today’s the day!”\n\nCut B (5–10s): Fast gear-up montage—she ties shoes, grabs her skateboard, wraps her scarf, and steps into the glowing paper city, saying, “Let’s go meet my hero!”\n\nCut C (10–15s): She skates through origami streets with speed-line motion blur, rushes through the city, and reaches the train just in time, breathing, “Made it… just in time!”\n\nPART 2 — “INTO THE STADIUM”\n\nCut D (0–5s): On the train, Jessy sees the glowing stadium in the distance, holding her skateboard tightly, whispering, “Almost there… I can’t believe it.”\n\nCut E (5–10s): Outside stadium plaza, crowds flood in as she checks her watch, panics, and runs through the crowd, “Come on—kickoff’s in ten minutes!”\n\nCut F (10–15s): At the security gate, a guard stops her, then softens and lets her through, saying, “Go on, kid—enjoy the match.”\n\nPART 3 — “THE GOAL & THE ADVICE”\n\nCut G (0–5s): Stadium explodes with energy as Jessy watches her hero score a stunning goal; she jumps up screaming, “YES—that’s my player!!”\n\nCut H (5–10s): After the match, the player walks to her, notices her skateboard, and says, “Dreams just need courage.” Jessy replies softly, “Then I’m chasing mine.”\n\nCut I (5–10s continuation feel): Emotional moment—he signs her jersey on the chest, she freezes in shock, then smiles as stadium lights glow behind them.29:Ta78,Use the uploaded images as the primary visual references for character design, facial style, color palette, graphic motifs, and overall kawaii-chaotic tone.\n\n15-second music-video style animation, ultra cute and hyper pop, fast-paced, candy-colored, chaotic but readable, anime-inspired graphic motion.\n\nMain direction:\n\nThe characters dance in a cute, playful, slightly chaotic “mob dance” / “idol crowd dance” feeling. \n\nThe motion should feel inferred naturally from the reference images, not rigid choreography.\n\nEmphasize fast switching expressions, group-like energy, rapid cut transitions, and a dense pop visual atmosphere.\n\nVisual style:",
+      "media": {
+        "type": "video",
+        "url": "https://cms-assets.youmind.com/media/1782115001426_gjqvkc_Anime-Dance-with-Hand-Drawn-Crayon-Effects.mp4",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2068447584491130880/img/RSYDyWdZsmfr-6x-.jpg",
+        "alt": "带有手绘蜡笔特效的动漫舞蹈 Seedance 2.0 video prompt preview"
+      },
+      "source": {
+        "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
+        "upstreamUrl": "https://x.com/roco_kn_roco/status/2068448350278664693"
+      },
+      "attribution": {
+        "sourceName": "Awesome Seedance 2.0 Video Prompts",
+        "upstreamRepository": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+        "license": "CC-BY-4.0 for prompt data; keep upstream and IPG attribution."
+      },
+      "riskNotice": "Commercial use requires checking the original source, upstream license, model provider terms, and any depicted brand/person/IP rights."
+    },
+    {
+      "id": "case_seedance_2_0_6358",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "title": "戴着连指手套跳舞的小猫卡通",
+      "category": "2D 动画",
+      "tags": [
+        "2D 动画",
+        "Video prompt",
+        "General video prompt",
+        "Seedance 2.0"
+      ],
+      "model": "seedance-2-0",
+      "domain": "video",
+      "generationMode": "text-to-video",
+      "prompt": "A group of kittens wearing mittens, joyfully dancing and singing 'we're kittens with mittens' in a cozy room. The kittens have playful expressions and energetic movements, showcasing their excitement. The room is warmly lit with soft lighting, filled with toys and a comfortable atmosphere. The style is cartoonish and colorful, capturing the playful nature of the kittens. The medium is digital painting, with vibrant colors and a whimsical touch.",
+      "media": {
+        "type": "video",
+        "url": "https://cms-assets.youmind.com/media/1782287146066_blnpmf_Dancing-Kittens-with-Mittens-Cartoon.mp4",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2069335436737323008/img/aFOvMnJPToeJ9OQi.jpg",
+        "alt": "戴着连指手套跳舞的小猫卡通 Seedance 2.0 video prompt preview"
+      },
+      "source": {
+        "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
+        "upstreamUrl": "https://x.com/therjrajesh/status/2069335488608285005"
+      },
+      "attribution": {
+        "sourceName": "Awesome Seedance 2.0 Video Prompts",
+        "upstreamRepository": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+        "license": "CC-BY-4.0 for prompt data; keep upstream and IPG attribution."
+      },
+      "riskNotice": "Commercial use requires checking the original source, upstream license, model provider terms, and any depicted brand/person/IP rights."
+    },
+    {
+      "id": "case_seedance_2_0_6048",
+      "slug": "2d-mv-seedance-2-0",
+      "title": "故障艺术风格 2D 动漫 MV 剪辑",
+      "category": "2D 动画",
+      "tags": [
+        "2D 动画",
+        "Video prompt",
+        "General video prompt",
+        "Seedance 2.0"
+      ],
+      "model": "seedance-2-0",
+      "domain": "video",
+      "generationMode": "audio-driven",
+      "prompt": "日本のフルカラー2Dアニメ、超高速なカット割り、メリハリのあるスピードランプ、作画枚数多め、24FPS、アニメのミュージックビデオ、マルチショット、高精細な作画、クリーンなセルシェーディング、シネマティックなライティング、印象的なカメラワーク、大胆なアングル\n ○○と ○○ は登場人物\n\n　0:00‐0:03　画面が不規則な格子状に複数分割され、それぞれの枠内で ○○ の差し伸べる手、きらめく星の粉が激しいコマ撮り風に高速で切り替わる。\n　0:03‐0:06　斜めのスプリットスクリーン。一方の枠に ○○ の星型の瞳孔、もう一方の枠に逆流する砂時計のコラージュが配置され、高速にズームインとズームアウトを繰り返す。\n　0:06‐0:09　画面分割の枠線（黒い太線）が、ノイズのように激しく左右に振動（グリッチ）し始める。枠線の中に極彩色のテクスチャが明滅する。\n　0:09‐0:12　画面全体の分割レイアウトが時計回りにガタガタと90度ずつ激しく回転し、それぞれの枠内の絵柄が瞬間的にフラッシュバックする。\n　0:12‐0:15　○○ と ○○ のシルエットが交互に画面中央でフラッシュしながら、すべての分割枠が激しいブレ（スミア）を伴って画面中央へ吸い込まれていく。",
+      "media": {
+        "type": "video",
+        "url": "https://cms-assets.youmind.com/media/1781781306581_a2xt2l_Glitched-2D-Anime-MV-Montage.mp4",
+        "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-766224cba5f2c31a2542.jpg",
+        "alt": "故障艺术风格 2D 动漫 MV 剪辑 Seedance 2.0 video prompt preview"
+      },
+      "source": {
+        "caseUrl": "https://imagepromptgallery.com/cases/2d-mv-seedance-2-0",
+        "upstreamUrl": "https://x.com/anko1oo7/status/2066116179962548472"
+      },
+      "attribution": {
+        "sourceName": "Awesome Seedance 2.0 Video Prompts",
+        "upstreamRepository": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+        "license": "CC-BY-4.0 for prompt data; keep upstream and IPG attribution."
+      },
+      "riskNotice": "Commercial use requires checking the original source, upstream license, model provider terms, and any depicted brand/person/IP rights."
+    },
+    {
+      "id": "case_seedance_2_0_6449",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "title": "灵动动漫角色动画",
+      "category": "2D 动画",
+      "tags": [
+        "2D 动画",
+        "Video prompt",
+        "General video prompt",
+        "Seedance 2.0"
+      ],
+      "model": "seedance-2-0",
+      "domain": "video",
+      "generationMode": "audio-driven",
+      "durationSeconds": 2,
+      "prompt": "Emphasize snappy animation with lively energy, pose-to-pose, strong anticipation, overshoot, squash and stretch, quick switches in facial expressions, and follow-through on hair and sleeves. \nGive the movements a distinctive rhythm with variation in pacing: Hold still poses firmly for a split second, then transition to the next movement with a quick, bouncy snap. Make it comical and well-timed, but keep the actions easy to read. \nMovements follow: \"stillness → preparatory action → sudden acceleration → large overshoot → sharp stop → hair and sleeves sway delayed.\" \nFacial changes are exaggerated and comical. \nPoses are clear in silhouette, with a solid hold of 0.1–0.2 seconds at the end of each action. \nUse cartoonish squash & stretch, motion blur, short afterimages, dramatic smear frames and speed lines sparingly. \nPhysics are slightly exaggerated beyond reality, but the character's footing and center of gravity don't break.",
+      "media": {
+        "type": "video",
+        "url": "https://cms-assets.youmind.com/media/1782459920822_3nzcx4_Snappy-Anime-Character-Animation.mp4",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2070073598870786049/img/yagOC-dRhsTNAZq3.jpg",
+        "alt": "灵动动漫角色动画 Seedance 2.0 video prompt preview"
+      },
+      "source": {
+        "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
+        "upstreamUrl": "https://x.com/suji_pop/status/2070073666818527282"
+      },
+      "attribution": {
+        "sourceName": "Awesome Seedance 2.0 Video Prompts",
+        "upstreamRepository": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+        "license": "CC-BY-4.0 for prompt data; keep upstream and IPG attribution."
+      },
+      "riskNotice": "Commercial use requires checking the original source, upstream license, model provider terms, and any depicted brand/person/IP rights."
+    },
+    {
+      "id": "case_seedance_2_0_6043",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "title": "素描角色争吵动画",
+      "category": "2D 动画",
+      "tags": [
+        "2D 动画",
+        "Video prompt",
+        "General video prompt",
+        "Seedance 2.0"
+      ],
+      "model": "seedance-2-0",
+      "domain": "video",
+      "generationMode": "text-to-video",
+      "durationSeconds": 2,
+      "prompt": "Shot 1 (0-2s): Camera slowly zooms in. Pencil lines begin moving.\n\nShot 2 (2-4s): The left sketch version blinks and looks toward the center character.\n\nShot 3 (4-6s): The right sketch version smirks and raises an eyebrow.\n\nShot 4 (6-8s): All three versions begin arguing silently with exaggerated expressions.\n\nShot 5 (8-10s): The center girl suddenly shouts:\n\n\"Can everybody stop being me?!\"\n\nThe sketch versions immediately freeze.\n\nSFX: pencil scratching, paper rustling, cartoon pop sounds.",
+      "media": {
+        "type": "video",
+        "url": "https://cms-assets.youmind.com/media/1781781352308_vrojsp_Sketch-Characters-Arguing-Animation.mp4",
+        "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-294de62d7da3fabcbe52.jpg",
+        "alt": "素描角色争吵动画 Seedance 2.0 video prompt preview"
+      },
+      "source": {
+        "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
+        "upstreamUrl": "https://x.com/airina_xyz/status/2066159025331515590"
+      },
+      "attribution": {
+        "sourceName": "Awesome Seedance 2.0 Video Prompts",
+        "upstreamRepository": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+        "license": "CC-BY-4.0 for prompt data; keep upstream and IPG attribution."
+      },
+      "riskNotice": "Commercial use requires checking the original source, upstream license, model provider terms, and any depicted brand/person/IP rights."
+    },
+    {
+      "id": "case_seedance_2_0_6556",
+      "slug": "seedance-video-prompt-seedance-2-0-6556",
+      "title": "动态节奏运镜舞蹈",
+      "category": "Brand and product ads",
+      "tags": [
+        "Cinematic realism",
+        "Motion and action",
+        "People and characters",
+        "Brand and product ads",
+        "Seedance 2.0"
+      ],
+      "model": "seedance-2-0",
+      "domain": "video",
+      "generationMode": "text-to-video",
+      "prompt": "コンセプト：カメラは一瞬も止まらない。常に最速・最小振幅で小刻みに動き続ける、もう1人の踊り手。\n基本リズムは16分（1拍を4分割）以上の高密度で刻み、各刻みごとに必ずカメラが弾く・刻む・寄る・引くのいずれかを行う。静止フレームは作らない。決めポーズの瞬間ですら、カメラは構図を保ったまま高周波の微振動を続け、止まって見えても実際は小刻みに脈打っている。だらだらした中速の移動は一切なし。動きは常に「カクッ」と鋭い始点・終点を持つスナップ運動で、ゆっくりした補間を挟まない。\n全編を通して常時走らせる微小モーション（最速・小振幅・高頻度）：\nマイクロズーム連打（各刻みで数%だけ寄る／引くを高速往復、絶え間なく脈打つ）\nビートバウンス（足のステップ・膝の沈みに同期してカメラが上下に小さく弾み続ける）\nジッターパン（肩のヒット・首振りに合わせて左右へ小刻みにカクカク刻む）\nマイクロシェイク（強拍で数ピクセル鋭く揺れ、即次の刻みへ）\n高速リフレーミング（16分ごとに構図を微調整し続け、2人を常にベストポジションへ収め直す）\n微オービット往復（中心軸まわりを小角度で左右に揺れ続ける）\n身体パーツ単位の瞬間同期（鋭く・速く）：\n肩のヒット → カメラがカクッと逆方向へ弾く\n指先・アームライン → ズームが軌道を高速で微追従\n首振り・髪のなびき → カメラも同方向へ鋭く振れて即戻る\n腰のウェーブ／ボディロール → カメラが縦に小刻みにうねる\nスポットターン → カメラが逆回転で小刻みに回り込む\n大振りの飛び道具（決めの瞬間に最速で投入、ただし投入後も微振動は止めない）：\nスナップズーム（最速で寄る／引いて瞬間到達、到達後も微ズームを継続）\nホイップパン（2人の間を最速で振り、決めの頭で微振動ホールドへ移行）\n急速クレーンダイブ／クレーンアップ\n高速360度オービット\nドリーズーム（背景だけ伸縮、1発）\n床スレスレローアングル→急上昇\nダッチアングル（決めで大胆な斜め、斜めのまま微振動）\n\nリズム原則：\n全編：カメラは1フレームも止まらず、最速・最小振幅で刻み続ける。\n強拍：微小モーションの上に大振りを重ねる（刻みは止めない）。\n決め：完全静止ではなく「微振動ホールド」。構図は固定、カメラは小刻みに生き続ける。\n2人がターンすればカメラも逆回転、ジャンプには跳ねて浮き、前進には弾かれて後退、すべて最速で反応。\nカット割りではなく、ライブ番組らしい流れるスイッチングで全部つなぐ。\n\n【15秒構成】\n■0.0〜2.0秒 天井付近の超ワイドから、最初のビートでクレーンダイブ＋スナップズームを最速発動しツーショットのバストアップへ落下。着地と同時にマイクロズームとビートバウンスが脈打ち始め、以降一瞬も止まらない。2人同時に肩・首・腰のアイソレーション、各ヒットでカメラがカクカク逆方向へ弾く。カメラ目線の微笑みも微振動ホールドで魅せる。\n■2.0〜4.0秒 2人の中心軸を高速オービットで半周しつつ、回りながら16分でマイクロズームを連打。横並び左右ステップ／片手ハート／胸元ハート／指差し（ミラー振付）、ステップごとにビートバウンスで上下。決めの頭でも止めず微振動ホールドへ移行し、髪の残像を捉え続ける。\n■4.0〜6.0秒 床スレスレローアングル煽り。ボディロール／腰のウェーブにカメラが縦へ小刻みにうねる。肩のヒットごとにジッターパンで左右に刻む。足元から急速クレーンアップへ最速上昇。顎を上げた笑顔も微振動ホールド＋ダッチアングル（斜めのまま小刻みに揺れる）。\n■6.0〜8.0秒 スナップズームで片方へ寄る→ホイップパンでもう片方への掛け合い。寄った先でもマイクロシェイクが鋭く微振動し続ける。それぞれ口パク、ほっぽピース／片手ハート／首傾け。指先にズームが高速追従。決めも微振動ホールドで表情を魅せる。\n■8.0〜10.0秒 360度高速オービットで一周、同時に2人が高速スポットターン（左右対称）。カメラはターンと逆回転で小刻みに回り込み、回り終わりも止めず微オービット往復へ。互いに片手ハートを合わせ1つの大きなハート、その瞬間もマイクロズームを最小振幅で脈打たせる。\n■10.0〜12.0秒（サビ） ワイドへ最速パンチアウト。ステージいっぱいの大きなデュエットダンス。対角線へ移動→中央集合、全ステップにビートバウンス同期。同時ジャンプにカメラも跳ねて浮く。大きなアームラインをユニゾン、軌道をズームが追う。サビ頭でドリーズームを1発、伸縮中もマイクロシェイク継続。\n■12.0〜14.0秒 最速パンチアウト→パンチインの連打で距離を高速に出し入れ。2人が肩を寄せて近付く間も、カメラは16分で寄り引きを刻み続ける。アイコンタクト／指先をレンズへ、その指先にズームが小刻みに追従。柔らかい笑顔も微振動ホールド。\n■14.0〜15.0秒（ラストKilling Part） 2人が一歩踏み込みぴたりと寄り添う瞬間、最速スナップズーム＋ホイップでツーショットのクローズアップに突き刺さる。到達後も完全には止めず、最小振幅・最高周波の微振動ホールドで決めポーズ・笑顔・同時ウィンクを魅せる。止まって見えて生きているフィニッシュ。2c:T1288,概念：相机绝不停歇。舞者以最高速度和最小幅度不断进行细微移动。\n基本节奏为高密度的 16 分音符（1 拍分为 4 份）或更高，在每个间隔，相机必须执行以下动作之一：轻弹、点动、放大或缩小。不要创建静态画面。即使在关键姿势期间，相机也要保持高频微震动以维持构图；即使看起来静止，实际上也在以微小增量脉动。拒绝缓慢的中间过渡。动作始终具有尖锐的起始和结束点，中间没有缓慢的插值。\n全程运行的微动作（最快速度、小幅度、高频率）：\n连续微缩放（在每个间隔以几个百分点的幅度快速往复缩放，持续脉动）\n节拍弹跳（相机随脚步/膝盖起伏同步进行小幅上下弹跳）\n抖动平移（随肩部撞击/头部晃动进行小幅尖锐的左右平移）\n微震动（在强拍上进行几个像素的尖锐晃动，并立即进入下一个间隔）\n高速重构图（每 16 分音符持续微调构图，使双人保持在最佳位置）\n微轨道振荡（绕中心轴进行连续小角度左右摇摆）\n各身体部位的瞬时同步（尖锐且快速）：\n肩部撞击 -> 相机向相反方向猛冲\n指尖/手臂线条 -> 缩放随轨迹高速移动\n头部晃动/头发飘动 -> 相机也向同一方向剧烈摆动并立即返回\n腰部波浪/身体律动 -> 相机垂直方向微小起伏\n定点旋转 -> 相机以反向旋转进行微小圆周运动\n大规模“投射”动作（在关键时刻以最高速度部署，部署后微震动不停）：\n快照缩放（以最高速度瞬间到达目的地，到达后继续微缩放）\n鞭式平移（在两者之间以最高速度摆动，在顶点过渡到微震动保持）\n快速摇臂下降/摇臂上升\n高速 360 度轨道环绕\n滑动变焦（背景扩张/收缩，一镜到底）\n地面低角度到快速上升\n荷兰式倾斜（在关键时刻大胆倾斜，倾斜时保持微震动）\n\n节奏原则：\n全程：相机不停止任何一帧，以最快速度和最小幅度点动。\n强拍：在微动作之上叠加大幅度动作（不要停止点动）。\n关键姿势：并非完全静止，而是“微震动保持”。构图固定，但相机以微小增量保持活力。\n如果他们旋转，相机反向旋转；他们跳跃时相机随之跳动，他们前进时相机后退，对一切动作做出最高速度反应。\n用流畅的直播式切换连接一切，而非硬切。\n\n[15 秒构图]\n0.0–2.0s：从天花板附近的超广角镜头开始，在第一拍以最高速度部署摇臂下降 + 快照缩放，落入半身双人镜头。落地同时，微缩放和节拍弹跳开始脉动且永不停歇。两人同时进行肩部、头部和腰部隔离动作；每次撞击，相机都来回猛冲。即使是对着镜头微笑，也以微震动保持捕捉。\n2.0–4.0s：以高速绕中心轴旋转半圈，同时连续微缩放以 16 分音符脉动。并排踏步 / 单手比心 / 胸前比心 / 指向（镜像编舞），随每一步上下弹跳。在顶点不要停止；过渡到微震动保持以捕捉头发残影。\n4.0–6.0s：地面低角度镜头。相机随身体律动/腰部波浪垂直起伏。每有一次肩部撞击就进行左右抖动平移。从脚部开始快速摇臂上升。仰头微笑也以微震动保持 + 荷兰式倾斜（倾斜时震动）捕捉。\n6.0–8.0s：快照缩放至一人 -> 鞭式平移切换至另一人。缩放后微震动依然尖锐。口型同步、脸颊比心 / 单手比心 / 歪头。缩放随指尖高速移动。表情顶点处进行微震动保持。\n8.0–10.0s：进行一次完整的高速 360 度轨道环绕，同时两人进行高速定点旋转（对称）。相机以微小增量反向旋转，无缝过渡到微轨道振荡。两人单手比心拼成一个大心形，此时以最小幅度脉动微缩放。\n10.0–12.0s（副歌）：快速推远至广角。舞台上进行大型双人舞。对角线移动 -> 中心汇聚，所有脚步与节拍弹跳同步。相机随他们的跳跃而跳动。大幅度手臂线条同步，缩放随路径移动。副歌开始时进行一次滑动变焦，扩张期间微震动持续。\n12.0–14.0s：重复快速推远和推近以快速改变距离。即使他们靠近，相机也以 16 分音符进行推拉。眼神接触 / 手指指向镜头，缩放随手指微小增量移动。柔和的微笑以微震动保持捕捉。\n14.0–15.0s（高潮部分）：当他们靠近并倚靠在一起时，最高速度的快照缩放 + 鞭式平移切入特写双人镜头。到达后不要完全停止；以最高频率/最小幅度的微震动保持结束，展示姿势、微笑和同步眨眼。一个看起来静止但充满活力的结尾。2d:T660,Create a 15-second ultra-realistic, fast-paced cinematic lifestyle vlog. A beautiful 23-year-old female influencer wearing white T shirt with black short is on her morning walk in a lush green park during golden sunrise. The editing is energetic with quick 1–2 second cuts, smooth gimbal shots, dynamic transitions, speed ramps, and cinematic close-ups. The vibe is fresh, motivating, and aesthetic, similar to viral Instagram Reels and TikTok lifestyle content.\n\nScene 1 (0–2 sec): Close-up of her tying her white sneakers, grabbing a water bottle, and opening the park gate.\n\nDialogue: \"Morning reset... let's go!\"\n\nScene 2 (2–5 sec): Selfie shot while walking confidently through the park with sunlight behind her.\n\nDialogue: \"Nothing beats fresh air at sunrise.\"\n\nScene 3 (5–8 sec): Fast montage of her walking, smiling, birds flying, trees swaying, smartwatch tracking steps, and shoes hitting the path.\n\nDialogue: \"Just fifteen minutes can completely change your mood.\"\n\nScene 4 (8–12 sec): Slow-motion hair flip, laughing, stretching, and enjoying the golden sunlight.\n\nDialogue: \"Move your body... clear your mind.\"\n\nScene 5 (12–15 sec): She turns toward the camera with a bright smile and gives a thumbs-up while continuing her walk.\n\nDialogue: \"See you tomorrow for another morning reset!\"\n\nStyle: Hyper-realistic , cinematic golden-hour lighting, vibrant colors, luxury influencer aesthetic, ultra-smooth camera movement, quick jump cuts, speed ramps, natural expressions, realistic lip sync, shallow depth of field, crisp ambient nature sounds, high-energy editing, no text overlays, no logos, no watermarks.2e:T576,Preserve the exact face, hairstyle, identity, skin tone, and body proportions from @ image1 throughout. Outfit: oversized terracotta linen shirt, dusty burgundy wide-leg trousers, brown leather sandals, small gold hoop earrings. Loose natural wavy hair.\nAuthentic Indonesian woman. Late-2000s personal vlog aesthetic. Extremely raw handheld flip-camera footage with heavy camera shake, natural reframing, partial face crops, focus hunting, exposure shifts, warm faded colors, mild digital noise, and home-video imperfections. No posing, no cinematic glamour, no stabilization, no modern color grading.\n.00:00–00:02 Wooden dock. Selfie shot, smiling and talking casually. Fishing bo",
+      "media": {
+        "type": "video",
+        "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/6556.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=StKX3wA6kAUE%2BnJfDbQYJadty9E%3D",
+        "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/6556.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=5W1i60jOB3Ouxao1AC%2F7wU3VavM%3D",
+        "alt": "动态节奏运镜舞蹈 Seedance 2.0 video prompt preview"
+      },
+      "source": {
+        "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0-6556",
+        "upstreamUrl": "https://x.com/roco_kn_roco/status/2070689572800057659"
+      },
+      "attribution": {
+        "sourceName": "Awesome Seedance 2.0 Video Prompts",
+        "upstreamRepository": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+        "license": "CC-BY-4.0 for prompt data; keep upstream and IPG attribution."
+      },
+      "riskNotice": "Commercial use requires checking the original source, upstream license, model provider terms, and any depicted brand/person/IP rights."
+    },
+    {
+      "id": "case_seedance_2_0_6546",
+      "slug": "seedance-video-prompt-seedance-2-0-6546",
+      "title": "清爽欧洲小镇汽水广告",
+      "category": "Brand and product ads",
+      "tags": [
+        "Cinematic realism",
+        "Motion and action",
+        "People and characters",
+        "Brand and product ads",
+        "Seedance 2.0"
+      ],
+      "model": "seedance-2-0",
+      "domain": "video",
+      "generationMode": "text-to-video",
+      "prompt": "## Scene 1 (0:00 - 0:03) — \"The Walk\"\n\n**Shot:** Wide establishing drone shot of the picturesque European-style town. Sunlight reflects off pastel buildings, café terraces bustle with life, flower boxes sway gently in the breeze.\n\n**Cut to:** Medium tracking shot moving alongside the woman as she walks confidently down the cobblestone street holding the cold FANTA can.\n\n**Camera:** Smooth gimbal tracking, shallow depth of field.\n\n**Dialogue:** None.\n\n**Audio:** Birds, distant café chatter, footsteps on cobblestones, soft city ambience.\n\n---\n\n## Scene 2 (0:03 - 0:06) — \"Refreshing Moment\"\n\n**Shot:** Close-up of condensation droplets sliding down the FANTA can.\n\n**Cut to:** Medium close-up as she raises the can and takes a sip.\n\n**Shot:** Extreme close-up of her closing her eyes and smiling in satisfaction.\n\n**Dialogue (soft, natural):**\n**Woman:** *\"That's exactly what I needed.\"*\n\n**Audio:** Can opening sound, carbonation fizz, subtle refreshing sound design.\n\n---\n\n## Scene 3 (0:06 - 0:08) — \"The Wind Arrives\"\n\n**Shot:** A few papers begin sliding across the street.\n\n**Cut:** Her hair moves slightly as she notices the wind.\n\n**Cut:** Hundreds of white papers suddenly burst into frame, swirling upward around her.\n\n**Camera:** Fast whip pan transitioning into slow motion.\n\n**Dialogue:** None.\n\n**Audio:** Rising wind gust, fluttering paper sounds.\n\n---\n\n## Scene 4 (0:08 - 0:12) — \"Hero Moment\"\n\n**Shot:** Dramatic low-angle shot.\n\nShe raises the bright red FANTA can high above her head while looking toward the sky.\n\nPapers spin around her in beautiful chaotic motion.\n\nThe camera slowly circles 360 degrees around her.\n\nStrong sunlight creates lens flares, god rays, and glowing highlights.\n\nSeveral sheets fly directly past the camera lens.\n\n**Dialogue (inspired, joyful):**\n**Woman:** *\"This feels amazing.\"*\n\n---\n\n## Scene 5 (0:12 - 0:15) — \"Commercial Finish\"\n\n**Shot:** Extreme low-angle hero shot of the FANTA can against the blue sky.\n\n**Cut to:** Slow-motion smile as papers continue floating around her.\n\n**Final shot:** Freeze-frame style ending with the can remaining centered in frame while the town softly blurs behind.\n\n**Dialogue:** None.\n\n**Audio:** Wind slowly fades, uplifting musical swell, ambient city sounds return.\n\n---\n\n## Camera Cut Summary\n\n1. Establishing aerial shot.\n2. Side tracking medium shot.\n3. Product close-up.\n4. Drinking close-up.\n5. Reaction close-up.\n6. Paper gust whip-pan transition.\n7. Low-angle hero shot.\n8. 360° orbit shot.\n9. Extreme product close-up finale.2a:T9b5,## 场景",
+      "media": {
+        "type": "video",
+        "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/6546.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=a01vEa0p46Du2jkfRO9Zvq31T84%3D",
+        "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/6546.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=k6zXn43T9IphRn9s8ZdyyigdeEo%3D",
+        "alt": "清爽欧洲小镇汽水广告 Seedance 2.0 video prompt preview"
+      },
+      "source": {
+        "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0-6546",
+        "upstreamUrl": "https://x.com/Just_sharon7/status/2070779942069993713"
+      },
+      "attribution": {
+        "sourceName": "Awesome Seedance 2.0 Video Prompts",
+        "upstreamRepository": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+        "license": "CC-BY-4.0 for prompt data; keep upstream and IPG attribution."
+      },
+      "riskNotice": "Commercial use requires checking the original source, upstream license, model provider terms, and any depicted brand/person/IP rights."
+    },
+    {
+      "id": "case_seedance_2_0_6544",
+      "slug": "vlog-seedance-2-0-6544",
+      "title": "电影感晨间生活方式 Vlog",
+      "category": "Brand and product ads",
+      "tags": [
+        "Cinematic realism",
+        "Motion and action",
+        "People and characters",
+        "Brand and product ads",
+        "Seedance 2.0"
+      ],
+      "model": "seedance-2-0",
+      "domain": "video",
+      "generationMode": "text-to-video",
+      "prompt": "Create a 15-second ultra-realistic, fast-paced cinematic lifestyle vlog. A beautiful 23-year-old female influencer wearing white T shirt with black short is on her morning walk in a lush green park during golden sunrise. The editing is energetic with quick 1–2 second cuts, smooth gimbal shots, dynamic transitions, speed ramps, and cinematic close-ups. The vibe is fresh, motivating, and aesthetic, similar to viral Instagram Reels and TikTok lifestyle content.\n\nScene 1 (0–2 sec): Close-up of her tying her white sneakers, grabbing a water bottle, and opening the park gate.\n\nDialogue: \"Morning reset... let's go!\"\n\nScene 2 (2–5 sec): Selfie shot while walking confidently through the park with sunlight behind her.\n\nDialogue: \"Nothing beats fresh air at sunrise.\"\n\nScene 3 (5–8 sec): Fast montage of her walking, smiling, birds flying, trees swaying, smartwatch tracking steps, and shoes hitting the path.\n\nDialogue: \"Just fifteen minutes can completely change your mood.\"\n\nScene 4 (8–12 sec): Slow-motion hair flip, laughing, stretching, and enjoying the golden sunlight.\n\nDialogue: \"Move your body... clear your mind.\"\n\nScene 5 (12–15 sec): She turns toward the camera with a bright smile and gives a thumbs-up while continuing her walk.\n\nDialogue: \"See you tomorrow for another morning reset!\"\n\nStyle: Hyper-realistic , cinematic golden-hour lighting, vibrant colors, luxury influencer aesthetic, ultra-smooth camera movement, quick jump cuts, speed ramps, natural expressions, realistic lip sync, shallow depth of field, crisp ambient nature sounds, high-energy editing, no text overlays, no logos, no watermarks.2e:T576,Pres",
+      "media": {
+        "type": "video",
+        "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/6544.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=PJyYYeosCRUVbBPwQoe0%2BaK2Cfg%3D",
+        "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/6544.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=D3g3F8CMeupwn1KoJsdn8NNeDMc%3D",
+        "alt": "电影感晨间生活方式 Vlog Seedance 2.0 video prompt preview"
+      },
+      "source": {
+        "caseUrl": "https://imagepromptgallery.com/cases/vlog-seedance-2-0-6544",
+        "upstreamUrl": "https://x.com/thisismariaa25/status/2070778437997150658"
+      },
+      "attribution": {
+        "sourceName": "Awesome Seedance 2.0 Video Prompts",
+        "upstreamRepository": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+        "license": "CC-BY-4.0 for prompt data; keep upstream and IPG attribution."
+      },
+      "riskNotice": "Commercial use requires checking the original source, upstream license, model provider terms, and any depicted brand/person/IP rights."
+    },
+    {
+      "id": "case_seedance_2_0_dc994eb1c345",
+      "slug": "no-1-seedance-2-0-15-second-cinematic-japanese-romance-short-film-seedance-2-0",
+      "title": "No. 1: Seedance 2.0: 15-Second Cinematic Japanese Romance Short Film",
+      "category": "General video prompt",
+      "tags": [
+        "Seedance 2.0",
+        "Video prompt",
+        "General video prompt"
+      ],
+      "model": "seedance-2-0",
+      "domain": "video",
+      "generationMode": "text-to-video",
+      "durationSeconds": 4,
+      "prompt": "15-second cinematic Japanese drama pure love ambiguous short film, ultra-realistic quality, warm golden sunlight in an empty classroom in the afternoon, spilling through the blinds onto the side-by-side desks, fine dust motes slowly floating in the light beams, old wooden desks, extremely natural subtle movements, breathing, and eye tension, characters maintain consistent faces, clothing, and hairstyles throughout without deformation, drift, or artifacts, real slight chest rise and fall synchronized with breathing, shallow depth of field, creamy blurred background, warm film grain, 8K sharp, Japanese youth restrained heart-fluttering suffocating atmosphere.\n0-4 seconds: Extremely slow push-in shot from a medium shot of the desktop to a close-up of the two people's side profiles sitting side-by-side. A pure girl in a summer school uniform is focused on writing notes with her head down, long black hair and stray hairs by her ears are gently lifted by a slight breeze, long eyelashes cast subtle shadows, skin is naturally pink and tender, a slight, unintentional upturn of the corner of her mouth in concentration, light and even breathing.\n4-9 seconds: Switch to a close-up of the boy. His school uniform collar is slightly loose, he props his elbow on the desk and secretly turns his head to gaze at her, his eyes filled with gentle, restrained affection and tenderness, pupils slightly dilated, his Adam's apple gently rolls. Suddenly noticing her pen pause, he quickly and flusteredly turns his head to pretend to look at his own notes, his earlobes quickly turn slightly red, his fingertips tremble slightly as he grips the pen, occasionally glancing at her from under his bangs, his breathing is slightly disordered, and his lips are tightly pressed in an effort to remain calm.\n9-15 seconds: Extreme close-up of both faces in the same frame, slow-motion eyes suddenly meet: the girl slowly turns her head, first showing a dazed surprise, then quickly and shyly lowers her head for 0.3 seconds, gently biting her lower lip, her cheeks and earlobes instantly bloom with cherry blossom pink, her moist eyelashes timidly look up to meet his gaze again, while softly and shyly whispering, \"...What are you looking at?\"; the boy freezes completely, his pupils dilate, and he is stunned for 0.4 seconds, then flusteredly and quietly stutters in response, \"N-nothing...\". The girl whispers even quieter, biting her lip and peeking at him again, continuing to whisper, \"...Liar.\". The boy pauses, then gently sighs and whispers, \"...Just looking at you.\", the corner of his mouth slowly curls up into a shy, gentle, crooked smile, fine lines appear at the corners of his eyes, and his breathing noticeably deepens. An invisible current seems to pull the ambiguous tension between their faces, sharing each other's breathing temperature, the background completely melts into layers of creamy, dreamy light spots, warm halos, and fine air particles.\nLip synchronization is natural and precise, emotional micro-tremors and breathing are synchronized, dialogue is low-energy whispering with a shy tone, natural short pauses between 200-400 milliseconds, the mouth only moves slightly when speaking, without exaggeration or robotic feel, perfect natural lip-sync and emotional authenticity.\nOverall Sound Effects: Distant summer cicada chirping faintly, the soft scratching sound of the pen touching the paper, the almost inaudible low-frequency pulse of their heartbeats, finally fading into a very light, airy piano. The dialogue is completely naturally integrated into the scene as whispers, the girl's voice is soft and shy, the boy transitions from flustered stuttering to gentle.\nCharacter identity is maintained throughout, real subtle head tilts, eye movements, and breathing synchronization, no text, watermarks, or subtitles, pure Japanese style youth secret crush heart-fluttering suspense.",
+      "media": {
+        "type": "video",
+        "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/dc994eb1c345.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=82VcCzS07HXmRVXEyb2k7%2FDU%2F7E%3D",
+        "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/dc994eb1c345.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=E6%2BlB67YgKBeVPibCONs6%2FzsBmc%3D",
+        "alt": "No. 1: Seedance 2.0: 15-Second Cinematic Japanese Romance Short Film Seedance 2.0 video prompt preview"
+      },
+      "source": {
+        "caseUrl": "https://imagepromptgallery.com/cases/no-1-seedance-2-0-15-second-cinematic-japanese-romance-short-film-seedance-2-0",
+        "upstreamUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts#dc994eb1c345"
+      },
+      "attribution": {
+        "sourceName": "Awesome Seedance 2.0 Video Prompts",
+        "upstreamRepository": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+        "license": "CC-BY-4.0 for prompt data; keep upstream and IPG attribution."
+      },
+      "riskNotice": "Commercial use requires checking the original source, upstream license, model provider terms, and any depicted brand/person/IP rights."
+    }
+  ]
 }
