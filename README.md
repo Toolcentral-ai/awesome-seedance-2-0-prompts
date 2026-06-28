@@ -5,9 +5,9 @@ Reusable Seedance 2.0 video prompts exported from Image Prompt Gallery.
 - Website: https://imagepromptgallery.com
 - Public API: https://imagepromptgallery.com/api/public/prompts?domain=video&model=seedance-2-0
 - Upstream attribution: https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts
-- Open repository target: https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts
-- Prompt count: 5
-- Generated at: 2026-06-28T11:00:16.496Z
+- Open repository target: https://github.com/Toolcentral-ai/awesome-seedance-2-prompts
+- Prompt count: 14
+- Generated at: 2026-06-28T13:59:37.129Z
 - Schema version: 2026-06-28
 
 ## Data files
@@ -23,15 +23,12 @@ Reusable Seedance 2.0 video prompts exported from Image Prompt Gallery.
 
 ## Categories
 
+- Video prompt: 9
 - General video prompt: 5
 
 ## Featured prompts
 
-- No. 4: Live-Action Anime Adaptation: Water vs. Thunder Breathing Duel — https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts
-- No. 5: Seedance 2.0: 80-Year-Old Rapper MV — https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts
-- No. 3: Modern Rural Aesthetics Healing Short Film Video Prompt — https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts
-- No. 1: Seedance 2.0: 15-Second Cinematic Japanese Romance Short Film — https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts
-- No. 2: Hollywood Haute Couture Fantasy Video Prompt — https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts
+- No featured prompts exported yet.
 
 ## Attribution and commercial-use notice
 
