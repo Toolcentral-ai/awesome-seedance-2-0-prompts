@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T13:59:37.129Z",
+  "generatedAt": "2026-06-28T16:14:43.988Z",
   "source": {
     "name": "Image Prompt Gallery",
     "url": "https://imagepromptgallery.com",
@@ -8,7 +8,7 @@
     "openRepository": "https://github.com/Toolcentral-ai/awesome-seedance-2-prompts",
     "exportSource": "snapshot-fallback"
   },
-  "count": 14,
+  "count": 19,
   "prompts": [
     {
       "id": "case_seedance_2_0_0403577b0219",
@@ -17,57 +17,87 @@
       "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
     },
     {
+      "id": "case_seedance_2_0_1402",
+      "slug": "seedance-2-0-15-second-cinematic-japanese-romance-short-film-seedance-2-0-1402",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_1403",
+      "slug": "seedance-2-0-80-year-old-rapper-mv-seedance-2-0-1403",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_189",
+      "slug": "live-action-anime-adaptation-water-vs-thunder-breathing-duel-seedance-2-0-189",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_288",
+      "slug": "modern-rural-aesthetics-healing-short-film-video-prompt-seedance-2-0-288",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_594",
+      "slug": "hollywood-haute-couture-fantasy-video-prompt-seedance-2-0-594",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
       "id": "case_seedance_2_0_6530",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "slug": "seedance-video-prompt-seedance-2-0-6530",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
       "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
     },
     {
       "id": "case_seedance_2_0_6532",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "slug": "seedance-video-prompt-seedance-2-0-6532",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
       "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
     },
     {
       "id": "case_seedance_2_0_6541",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "slug": "seedance-video-prompt-seedance-2-0-6541",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
       "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
     },
     {
       "id": "case_seedance_2_0_6544",
-      "slug": "vlog-seedance-2-0",
-      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "slug": "vlog-seedance-2-0-6544",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
       "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
     },
     {
       "id": "case_seedance_2_0_6545",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "slug": "seedance-video-prompt-seedance-2-0-6545",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
       "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
     },
     {
       "id": "case_seedance_2_0_6546",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "slug": "seedance-video-prompt-seedance-2-0-6546",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
       "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
     },
     {
       "id": "case_seedance_2_0_6552",
-      "slug": "vlog-seedance-2-0",
-      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "slug": "vlog-seedance-2-0-6552",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
       "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
     },
     {
       "id": "case_seedance_2_0_6553",
-      "slug": "fpv-seedance-2-0",
-      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "slug": "fpv-seedance-2-0-6553",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
       "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
     },
     {
       "id": "case_seedance_2_0_6556",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "slug": "seedance-video-prompt-seedance-2-0-6556",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
       "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
     },
     {
