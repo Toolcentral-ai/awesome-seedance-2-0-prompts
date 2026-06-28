@@ -1,6 +1,6 @@
 {
   "schemaVersion": "2026-06-28",
-  "generatedAt": "2026-06-28T17:18:40.048960Z",
+  "generatedAt": "2026-06-28T17:20:48.725368Z",
   "source": {
     "name": "Image Prompt Gallery",
     "url": "https://imagepromptgallery.com",
@@ -29,8 +29,8 @@
       "prompt": "I want to create a short 15 second scene in a 2D animation style at 12fps. A young man is walking down the street when pigeon poop suddenly falls on his shoulder. He looks up and sees the pigeon laughing at him. Then, for a brief moment, we see a pair of shoes flying in and hitting the pigeon on the head while it is still laughing. A ‘zzzzz’ anime-style effect appears to show that the pigeon is dizzy and shaken by the impact. Then the young man takes a tissue from his messenger bag, wipes off the poop, and continues walking with a proud look on his face.",
       "media": {
         "type": "video",
-        "url": "https://cms-assets.youmind.com/media/1781837916326_0h310a_2D-Anime-Pigeon-Comedy.mp4",
-        "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-3dcd9d8ea6997e44a196.jpg",
+        "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/5984.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=7c7CmvVWpHuqgjJtkufY7wClvlE%3D",
+        "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/5984.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=LyNHFdVVVBKC%2BZml7%2F5vapfeopk%3D",
         "alt": "2D 动漫鸽子喜剧 Seedance 2.0 video prompt preview",
         "durationSeconds": 15
       },
@@ -96,8 +96,8 @@
       "prompt": "Frame 1 - THE MEETING (1.5s): 28mm anamorphic lens f/2.8, fast aggressive dolly push-in at ground level, hero boy blue aura and evil clone red aura slowly expanding toward each other, purple energy crackling where auras meet, stormy cartoon sky above with lightning,",
       "media": {
         "type": "video",
-        "url": "https://cms-assets.youmind.com/media/1781837989050_26lz28_Cartoon-Fight-Scene-Animation-Frame.mp4",
-        "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-ed5f4170c05d8f46f4a5.jpg",
+        "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/5951.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=lRgGDxsqu4%2FdsOJVwroebT8m0Qk%3D",
+        "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/5951.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=OJF8F9Kel1YKowo5IOYG0EDw3xw%3D",
         "alt": "卡通战斗场景动画帧 Seedance 2.0 video prompt preview",
         "durationSeconds": 5
       },
@@ -196,8 +196,8 @@
       "prompt": "日本のフルカラー2Dアニメ、超高速なカット割り、メリハリのあるスピードランプ、作画枚数多め、24FPS、アニメのミュージックビデオ、マルチショット、高精細な作画、クリーンなセルシェーディング、シネマティックなライティング、印象的なカメラワーク、大胆なアングル\n ○○と ○○ は登場人物\n\n　0:00‐0:03　画面が不規則な格子状に複数分割され、それぞれの枠内で ○○ の差し伸べる手、きらめく星の粉が激しいコマ撮り風に高速で切り替わる。\n　0:03‐0:06　斜めのスプリットスクリーン。一方の枠に ○○ の星型の瞳孔、もう一方の枠に逆流する砂時計のコラージュが配置され、高速にズームインとズームアウトを繰り返す。\n　0:06‐0:09　画面分割の枠線（黒い太線）が、ノイズのように激しく左右に振動（グリッチ）し始める。枠線の中に極彩色のテクスチャが明滅する。\n　0:09‐0:12　画面全体の分割レイアウトが時計回りにガタガタと90度ずつ激しく回転し、それぞれの枠内の絵柄が瞬間的にフラッシュバックする。\n　0:12‐0:15　○○ と ○○ のシルエットが交互に画面中央でフラッシュしながら、すべての分割枠が激しいブレ（スミア）を伴って画面中央へ吸い込まれていく。",
       "media": {
         "type": "video",
-        "url": "https://cms-assets.youmind.com/media/1781781306581_a2xt2l_Glitched-2D-Anime-MV-Montage.mp4",
-        "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-766224cba5f2c31a2542.jpg",
+        "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/6048.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=TxJ7tnYy6ZCih0qd3JMyCFPnMew%3D",
+        "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/6048.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=Pq1ZUnMpSEy0tQqKoP4vNYp91wA%3D",
         "alt": "故障艺术风格 2D 动漫 MV 剪辑 Seedance 2.0 video prompt preview",
         "durationSeconds": null
       },
@@ -264,8 +264,8 @@
       "prompt": "Shot 1 (0-2s): Camera slowly zooms in. Pencil lines begin moving.\n\nShot 2 (2-4s): The left sketch version blinks and looks toward the center character.\n\nShot 3 (4-6s): The right sketch version smirks and raises an eyebrow.\n\nShot 4 (6-8s): All three versions begin arguing silently with exaggerated expressions.\n\nShot 5 (8-10s): The center girl suddenly shouts:\n\n\"Can everybody stop being me?!\"\n\nThe sketch versions immediately freeze.\n\nSFX: pencil scratching, paper rustling, cartoon pop sounds.",
       "media": {
         "type": "video",
-        "url": "https://cms-assets.youmind.com/media/1781781352308_vrojsp_Sketch-Characters-Arguing-Animation.mp4",
-        "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-294de62d7da3fabcbe52.jpg",
+        "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/6043.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=xNwlV60ASdZFWn3CXqNBbYh0ISI%3D",
+        "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/6043.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=TYgCixHcwYvbStvT%2BGxK9AindSE%3D",
         "alt": "素描角色争吵动画 Seedance 2.0 video prompt preview",
         "durationSeconds": 2
       },
@@ -663,8 +663,8 @@
       "prompt": "【风格】好莱坞奇幻高定大片(Hollywood Haute Couture Fantasy)，8K超清，真实摄影(Photorealistic)，顶级时尚杂志摄影感(High-fashion Editorial Style)，虚幻引擎5流体渲染，视觉错觉。 【时长】15秒 【场景】一面一望无际的真实天空之镜盐湖。天空是极具压迫感的乌云，地面像镜子一样完美倒映着一切，画面呈现极简的冷色调。 [00:00-00:05] 镜头1：高定登场与瓷器皮肤 机位：极低角度仰拍，超长焦镜头拉近。 动作：一名拥有极具辨识度的高级脸亚洲女模，迈着清冷的台步走在水面上。 特效：她身上穿的不是布料，而是一件由流动的真实青花瓷(Liquid Blue-and-White Porcelain)构成的长裙。随着她的步伐，裙摆像真实的陶瓷一样发出清脆的碰撞声，表面流光溢彩，青蓝色的传统花纹在白瓷质感的裙身上如同活物般游走。 [00:05-00:10] 镜头2：物理碎裂与水墨降临 机位：面部微距特写，跟焦极速拉远。 动作：女模突然停下脚步，冷冷地注视着镜头，打了一个清脆的响指。 特效：响指打响的瞬间，她身上的青花瓷长裙并没有掉落，而是瞬间炸裂成成千上万只极其逼真的水墨燕子(Photorealistic Ink-wash Swallows)。这些燕子带着真实的水滴和墨迹，在空气中拖拽出黑色的流体残影，疯狂地围绕着她旋转。 [00:10-00:15] 镜头3：维度溶解与深渊倒影 机位：高空俯拍，镜头极速旋转下降。 动作：水墨燕子群猛地扎入女模脚下的镜面湖水中。 特效：原本坚硬的盐湖水面瞬间失去了表面张力，整个极其写实的真实世界开始像滴入清水中的浓墨一样剧烈晕染、溶解。真实的乌云和女模的身影全部化作极其宏大的3D流体水墨漩涡(3D Fluid Ink Vortex)，将镜头彻底吞噬进一个黑白交织的深渊。",
       "media": {
         "type": "video",
-        "url": "https://cms-assets.youmind.com/media/1781842644000_77m9gn_Hollywood-Haute-Couture-Fantasy-Video-Prompt.mp4",
-        "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-e7b9bac88d681b3e709b.jpg",
+        "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/594.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=9ngcLoZXbbnRPGxhqqZUU5B5Ksk%3D",
+        "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/594.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=C8Qn6V4Jm1DIqZPpVrut3isR4os%3D",
         "alt": "好莱坞高级定制奇幻视频提示 Seedance 2.0 video prompt preview",
         "durationSeconds": 5
       },
@@ -1120,8 +1120,8 @@
       "prompt": "Image 1 speaks to the camera in the courtyard of a well maintained ancient temple.\n\n[0:00-0:05] Medium shot of Image 1. Camera slowly orbit as she says in Japanese with a gentle smile, \"モノローグは棒立ちよりも少し体を動かすと自然に見えます。\n\n[Cut: 0:05-0:10] Medium shot of Image 1 sitting on the steps of the temple. Stationary camera. She speaks in japanese, with subtle hand gestures, ”例えばこれを入れると手をセリフの一、二、三、に合わせて動かしてくれます。”\n\n[0:10-0:15] She slowly stands up and begins to walk slowly as she speaks with exaggerated hand gestures, in japanese, \"大～きくとか、小っさくとか！うわっ！とか、ぜひ試して見てください。”",
       "media": {
         "type": "video",
-        "url": "https://cms-assets.youmind.com/media/1781780704578_cbieai_Character-Monologue-with-Natural-Gestures.mp4",
-        "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-b550df36b62e23517e1c.jpg",
+        "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/6145.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=iPmuJrVgUJTRngxocYu813xygLo%3D",
+        "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/6145.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=p11jAmxABB%2F%2FyCOEsR9gy9w7RrE%3D",
         "alt": "带有自然手势的角色独白 Seedance 2.0 video prompt preview",
         "durationSeconds": 5
       },
@@ -1184,8 +1184,8 @@
       "prompt": "Use the storyboard image as the exact scene reference.\n\nCreate a realistic UGC-style product review video filmed on a smartphone by a young female creator in her bedroom. Natural lighting, authentic influencer content, casual and relatable energy.\n\nScene 1: She looks directly at the camera with a surprised expression and says, \"Okay, I wasn't expecting this.\" Selfie-style framing, natural room background.\n\nScene 2: She holds the product close to the camera and introduces it. Slow handheld movement, product clearly visible, friendly smile.\n\nScene 3: Close-up reaction shot. She examines the product after first use and says, \"My skin already feels so good.\" Genuine surprise and excitement.\n\nScene 4: Product demonstration. She applies the product while explaining its texture and feel. Macro close-ups, beauty-commercial quality details, smooth application shots.\n\nScene 5: Results reveal. Show natural before-and-after comparison, glowing skin, confident smile, bright lighting. She turns toward the camera to show the result from different angles.\n\nScene 6: Final recommendation. She holds the product beside her face and says, \"Definitely worth trying.\" Points at the product, smiles, and gives a thumbs-up.\n\nCamera Style: Handheld smartphone vlog, TikTok UGC aesthetic, authentic creator content, natural facial expressions, realistic movements, subtle camera shake, shallow depth of field, social-media ad style.\n\nVisual Style: Modern influencer content, clean bedroom setup, warm daylight, lifestyle photography, realistic skin texture, premium UGC commercial quality, vertical 9: 6, 4K HDR, highly engaging social media advertisement.",
       "media": {
         "type": "video",
-        "url": "https://cms-assets.youmind.com/media/1781869335595_20tpoh_Realistic-UGC-Product-Review-Video.mp4",
-        "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-20db90552bfebe67c66c.jpg",
+        "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/6176.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=pIh3mS1MjOaJwIGR31Cw8HnrkTY%3D",
+        "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/6176.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=OuQl5owXYfUMvNWJSbOREpuevEI%3D",
         "alt": "逼真的 UGC 产品测评视频 Seedance 2.0 video prompt preview",
         "durationSeconds": null
       },
@@ -1349,8 +1349,8 @@
       "prompt": "[CINEMATIC SETUP]\nEpic wuxia martial arts cinema, flowing wire-fu choreography,\nfast dynamic combat with sweeping camera movement, fabric and\nenergy trails in constant motion, golden hour mist, painterly\ncolor grade with deep contrast, Chinese",
       "media": {
         "type": "video",
-        "url": "https://cms-assets.youmind.com/media/1781781166210_5lkgni_Epic-Wuxia-Martial-Arts-Prompt.mp4",
-        "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-245a6bc69746df31cda4.jpg",
+        "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/6075.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=p3UQo%2BNvdzKQEEhNp0%2B9Jtkrn%2Bc%3D",
+        "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/6075.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=a1PZjQLXWEfy0okRbfwWbgEN0wo%3D",
         "alt": "史诗级武侠动作提示词 Seedance 2.0 video prompt preview",
         "durationSeconds": null
       },
@@ -1382,8 +1382,8 @@
       "prompt": "A cinematic, high-contrast action video in a stark minimalist white gallery space. A character wearing a traditional black samurai kimono, long flowing white hair, and a white Oni demon mask wields a massive, oversized Japanese calligraphy brush. The character dynamically spins and slashes the brush, leaving thick, fluid, three-dimensional black sumi-e ink strokes suspended in mid-air. The ink magically materializes into a ferocious, hyper-realistic tiger and twin massive Chinese dragons that swirl majestically around the character. Photorealistic 3D CGI, Unreal Engine 5 realism, ultra-sharp details, Unreal Engine 5 render, dramatic contrast between deep black ink and the brilliant white background. Slow-motion sweeps, dynamic tracking shots following the brush strokes, fluid particle simulation, studio lighting, 8K resolution.",
       "media": {
         "type": "video",
-        "url": "https://cms-assets.youmind.com/media/1781838069693_3kvjcl_Sumi-e-Samurai-Ink-Action-Video.mp4",
-        "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-dd0231c0042e53b14229.jpg",
+        "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/5903.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=8C6Ov2s8gza8rlC8CcKc8fQFho0%3D",
+        "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/5903.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=D4YreWW4VFEStRmeNiM7ZvEfVDY%3D",
         "alt": "武士鬼面水墨艺术 Seedance 2.0 video prompt preview",
         "durationSeconds": null
       },
@@ -1416,8 +1416,8 @@
       "prompt": "水彩画と水墨画が融合した独特の質感。\n紙へ水が滲む表現、墨のにじみ、鉛筆による細かな線画を重ねた芸術的スタイル。\nキャラクターとジェットスキーのデザイン・配色・形状は参照画像を忠実に維持。\n世界観は「海の都」。\n\n【世界設定】\n都市の道路は存在しない。\n建物は海上へ建ち並び、水路が高速道路となっている。\n巨大な運河、石造りの橋、ガラスの水門、海上マーケット、浮遊灯台、水上駅、海に浮かぶ住宅街。\n遠景には巨大な海上都市と港湾タワー。\n水面には空が映り込み、水彩の滲みで幻想的に描写される。\n\nScene1（0〜3秒）\n朝焼け。\n静かな海の都。\nキャラクターがSEA YR2へ跨る。\nエンジン始動。\n水面に水彩絵の具が広がるような波紋。\n\nScene2（3〜6秒）\n一気に加速。\n巨大な運河を高速走行。\n橋の下を低空で抜ける。\n飛沫が墨の跳ねのように散る。\n\nScene3（6〜9秒）\n市場の横、水上住宅街、港を縫うように高速コーナリング。\n建物のガラスへ機体が映り込む。\nカメラはドローン、追尾、横移動、ローアングルを高速切替。\n\nScene4（9〜12秒）\n大きなジャンプ。\n運河を飛び越えながら都市全景。\n着水時、水彩が紙へ広がるような飛沫演出。\n\nScene5（12〜15秒）\n夕日に染まる海の都。\n巨大な海上大橋へ向かって一直線。\n最後は後方から引きのロングショット。\n都市全体が一枚の水彩画のように広がりフェードアウト。\n\n映像演出\n・水彩の滲み\n・水墨の飛沫\n・鉛筆線のラフタッチ\n・紙の質感\n・柔らかな発光\n・映画的ライティング\n・シネマスコープ\n・超高密度背景\n・高速カメラワーク\n・水面反射\n・速度感重視\n・自然なモーションブラー\n・リアルな水しぶき\n・文字・字幕・ロゴなし",
       "media": {
         "type": "video",
-        "url": "https://cms-assets.youmind.com/media/1781780538733_dmra3h_Watercolor-Ink-Wash-Sea-City-Jet-Ski.mp4",
-        "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-fbcde451c0ed3887387a.jpg",
+        "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/6162.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=aIPqgvqgX4rRzlzxpy3e9fej3IU%3D",
+        "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/6162.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=5KB%2FG1KlWIrBOXPi2RstK233rN4%3D",
         "alt": "水彩水墨风海上城市与水上摩托 Seedance 2.0 video prompt preview",
         "durationSeconds": 3
       },
@@ -1449,8 +1449,8 @@
       "prompt": "A cinematic, high-contrast live-action action video set in a stark minimalist white gallery space. \n\nThe subject is the woman from the reference image: \nstraight black bangs, long black hair, a delicate and solemn expression, and translucent fair skin. \n\nShe wears a traditional kimono inspired by the reference image, with deep crimson red floral patterns, surrounded by red camellias and flowers. She wields a massive calligraphy brush with force, releasing thick black sumi ink into the air. The ink flows like a living substance and transforms into a powerful tiger and two dragons that swirl around her. \n\nFully photorealistic, not 3D CGI. Natural skin texture, realistic fabric fibers, liquid ink behavior, cinematic lighting, slow motion, dynamic tracking shots following the brush strokes, ultra-detailed, grounded and dramatic atmosphere.",
       "media": {
         "type": "video",
-        "url": "https://cms-assets.youmind.com/media/1781781011588_8w92wy_Crimson-Kimono-Ink-Tiger-Sequence.mp4",
-        "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-629637d9e6ebd24ad7d1.jpg",
+        "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/6089.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=cI50pORAUafL7rq5JlNivJVdZS4%3D",
+        "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/6089.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=JW8OR7Q7Eejlf2lLYMYf3fzXNGc%3D",
         "alt": "绯红和服墨虎序列 Seedance 2.0 video prompt preview",
         "durationSeconds": null
       },
@@ -2405,8 +2405,8 @@
       "prompt": "REFERENCE ASSET:\nCharacter reference image = uploaded character sheet\n\nSTYLE:\nPremium handcrafted stop-motion-inspired feature film aesthetic. Tactile miniature realism. Detailed fabric, skin, hair and clothing textures. Animation strictly on 2's (movement updates every 2 frames). Strong pose-to-pose animation. Deliberate handcrafted motion cadence. Professional character turnaround presentation. Clean studio showcase.\n\nDURATION:\n5 seconds\n\nFORMAT:\nPortrait video.\n\nSingle character only.\n\nPure white seamless background.\n\nNo shadows beyond a subtle studio grounding shadow beneath the feet.\n\nNo props.\n\nNo environment.\n\nNo text.\n\nNo camera movement.\n\nLOOPING:\nPerfect seamless loop.\n\nThe final frame must match the first frame exactly.\n\nThe rotation completes one full 360-degree turn and returns precisely to the starting pose.\n\nCAMERA:\nStatic camera.\n\nFull body framing.\n\nCharacter centred in frame.\n\n50mm lens.\n\nOrthographic-style presentation feel.\n\nProfessional character showcase.\n\nCOMPOSITION:\nThe character fills most of the frame vertically.\n\nEntire body visible throughout.\n\nFeet remain visible at all times.\n\nCharacter remains perfectly centred.\n\nWhite studio background remains completely clean and uncluttered.\n\nACTION:\n00:00 - 00:05\n\nThe character performs one complete slow 360-degree turntable rotation.\n\nRotation speed is constant and smooth.\n\nThe character rotates clockwise.\n\nThe rotation completes exactly one full revolution over the duration of the shot.\n\nThe character remains standing naturally throughout.\n\nSubtle idle animation only:\n\nNatural blinking.\n\nTiny eye movements.\n\nVery slight breathing.\n\nSubtle chest movement.\n\nTiny finger adjustments.\n\nSmall shifts in hand tension.\n\nVery subtle weight shifts.\n\nOccasional tiny eyebrow movement.\n\nSlight natural head settling.\n\nNo exaggerated acting.\n\nNo walking.\n\nNo posing changes.\n\nNo large gestures.\n\nThe character should feel alive while remaining suitable for a professional character turnaround.\n\nHAIR:\nHair maintains volume and shape throughout rotation.\n\nVery subtle movement only.\n\nNo dramatic wind effects.\n\nCLOTHING:\nClothing remains consistent and accurate to the reference.\n\nSubtle fabric settling.\n\nNo excessive secondary motion.\n\nLIGHTING:\nClean professional studio lighting.\n\nSoft three-point lighting setup.\n\nEven illumination.\n\nNo harsh shadows.\n\nClear visibility from every angle.\n\nConsistent lighting throughout the rotation.\n\nANIMATION:\nAnimation strictly on 2's.\n\nPremium handcrafted stop-motion-inspired motion.\n\nStrong readable silhouettes.\n\nProfessional character presentation quality.\n\nFINAL FRAME:\nCharacter has completed exactly one full 360-degree rotation.\n\nReturns perfectly to the original front-facing posit",
       "media": {
         "type": "video",
-        "url": "https://cms-assets.youmind.com/media/1781837889236_dlvpqe_Stop-Motion-Character-Turntable-Showcase.mp4",
-        "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-eb4cb8ec6aa56b8dc5d7.jpg",
+        "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/6003.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=NLZZrF7X75Kjkyb9hUrwA4H478g%3D",
+        "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/6003.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=aR4oxPDVMbB9JT%2BDgABfvAhI1jw%3D",
         "alt": "定格动画风格角色 360 度展示 Seedance 2.0 video prompt preview",
         "durationSeconds": 5
       },
@@ -2733,8 +2733,8 @@
       "prompt": "Ultra-premium beverage social-media poster, 3:4, Instagram hero, Behance front-page quality. Campaign \"UNLEASHED\". Edgy aggressive aesthetic with claw-mark energy and dark green glow. \n\nMASTER VISUAL: bold MONSTER ENERGY wordmark filling about 70% of canvas with the green claw-slash M logo top center. HERO SUBJECT: footballer Rafael Leão in a red-and-green Portugal jersey, fierce and explosive. POSE: dynamic mid-celebration with green claw-slash energy ripping across the frame. \n\nCOLOR SYSTEM: Monster acid green, matte black, Portugal red, steel grey. BACKGROUND: a dark gritty stadium with green claw-slash light streaks and smoke. \n\nGRAPHIC SYSTEM: claw-mark graphics, energy can silhouette, aggressive grunge textures, micro spec text. \nPromotional text: \"MONSTER ENERGY\", \"LEÃO EDITION\", \"UNLEASH THE BEAST\". Title text reads \"UNLEASHED\". Giant centered \"M O N S T E R\" lettering. LIGHTING: dark moody scene with vivid green rim light. CAMERA: ARRI Alexa Mini LF, 50mm lens, high contrast, gritty.",
       "media": {
         "type": "video",
-        "url": "https://cms-assets.youmind.com/media/1781780969533_72679e_Monster-Energy-Rafael-Le-o-Football-Animation.mp4",
-        "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-6f3fceaee5c90701b9cf.jpg",
+        "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/6104.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=iImhb79xjgWtoRSAS7C%2FAa3PtWo%3D",
+        "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/6104.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=ciTh0DQkCNULqotDHXpzeTS7BiI%3D",
         "alt": "Monster Energy Rafael Leão 足球动画 Seedance 2.0 video prompt preview",
         "durationSeconds": null
       },
@@ -2798,8 +2798,8 @@
       "prompt": "Seedance 2.0 で15秒の動画 を作成。《WAGAHAIの三面図.png》 が 《Flova aiさんのロゴ.png》の看板ボードをもって楽しそうに飛び回っている。 その後嬉しそうにカメラに近寄ってきて、カメラ一杯に自分の顔と看板ボードを顔の横に持って近付き、嬉しそうに笑ったあと、画面に手書き風の文字で「WAGAHAI meets Flovia．ai」と表示される。 明るくポップなイメージ、楽しそうな雰囲気のBGM、字幕なし。",
       "media": {
         "type": "video",
-        "url": "https://cms-assets.youmind.com/media/1781837982247_lhss9c_Animated-Character-with-Logo-Board.mp4",
-        "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-9a5ade36a03cc96d6017.jpg",
+        "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/5955.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=tXhX8Pg5MMvht2AJRTKdzGOPmZc%3D",
+        "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/5955.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=wwH%2FrXWCqiDkAeoQRKlVc3vToFc%3D",
         "alt": "带有 Logo 项目的动画角色 Seedance 2.0 video prompt preview",
         "durationSeconds": 15
       },
@@ -2830,8 +2830,8 @@
       "prompt": "FPV shot: Diving through a tornado made entirely of autumn leaves. The camera enters a towering vortex of swirling leaves. Golden and crimson particles accelerate around the lens until they naturally align into \"WILD\" before being scattered by the storm. Organic motion, cinematic beauty.",
       "media": {
         "type": "video",
-        "url": "https://cms-assets.youmind.com/media/1781838013760_82p1cm_Autumn-Leaves-Vortex-Text-VFX.mp4",
-        "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-e59ef93a299d5fad9151.jpg",
+        "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/5938.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=ZcekdrRktsnrfPhDVGKzvEjt5zo%3D",
+        "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/5938.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=uykdT73iftHRCNy%2FrgZhsxGLRGw%3D",
         "alt": "秋叶漩涡文字视觉特效 Seedance 2.0 video prompt preview",
         "durationSeconds": null
       },
@@ -2894,8 +2894,8 @@
       "prompt": "スタイル:日本の作画枚数の多いアニメ。アクション映画の技法を使ったアニメ映画。アクションシーン。\n世界観:画像1のキャラクターが宇宙空間でサイバーパンクな飛行機に乗りドッグファイトの末に敵のサイバーパンクな宇宙船を撃墜する。\n\n※血の表現は絶対にしないでください。",
       "media": {
         "type": "video",
-        "url": "https://cms-assets.youmind.com/media/1781869326883_zswk0x_Cyberpunk-Anime-Space-Dogfight.mp4",
-        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2067811182950674432/img/dm3yuXjvUdddx7iJ.jpg",
+        "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/6191.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=FclxgxluKaJlR3lJjz5ijnmUiEw%3D",
+        "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/6191.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=Gm%2FNAe7Pj28g42ceAkC%2BP3aFlGI%3D",
         "alt": "赛博朋克动漫太空空战 Seedance 2.0 video prompt preview",
         "durationSeconds": null
       },
@@ -2927,8 +2927,8 @@
       "prompt": "10秒纯高速对战CG，无结尾画面，老式电影胶片画质，2.35:1画幅，全程动态运动模糊、随机卡顿跳帧、高感光噪点、逆光过曝、青灰冷调、光学色散、四角暗角、远景雾霭。场景：破碎赛博浮空平台，数字暴雨不断，电子雾弥漫，逆光强光铺满画面。\n\n人物设定：\n角色 1 参考图一浅灰短发发，半机械仿生躯体，内部电路流光闪烁，体态敏捷柔韧，持高频分子匕首；\n深棕乱发，后颈机械管线外凸，重型复角色 2 合战甲，表层液态金属流动，周身飘暗红光粒子，力量型体态，持可伸缩链锯刃。\n\n0-7s低角度跟拍：0s瞬移近身背刺，链锯刃回身格挡，碰撞冲击波掀飞电子雨，形成悬浮粒子幕；1.8s镜头剧烈晃动，链锯刃地面横扫，匕首撑地腾空反击；3.2s兵刃二次重击，能量火花爆闪，地面开裂碎石缓慢旋转；5.5s战甲粒子爆发形成烟柱围剿，匕首挥出光刃斩断烟柱，气浪带明显色散；7.5s双方超音速冲刺，音爆白雾完全过曝，平台碎片四处飞射。\n\n8-10s锁死肩跟镜头：8s徒手制住对手手腕，贴地高速拖拽，重摔落地引发平台崩裂，轰鸣巨响；9s机械管线反击，螺旋闪避后腾空锁颈扭转，伴随骨响与画面抽帧，俯冲瞄准能源核心，低频嗡鸣蓄力；9.7s匕首光芒极致炽亮，俯冲突破音障；10s匕首贯穿能源核心，大范围爆炸冲击波横扫全场，平台层层坍塌，碎片粒子放射飞溅，画面强光泛白，胶片颗粒跳动，直接切黑场，所有音效瞬间中断。9:16。",
       "media": {
         "type": "video",
-        "url": "https://cms-assets.youmind.com/media/1781869328672_5eefo4_Cyberpunk-High-Speed-Combat-CG.mp4",
-        "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-22f2c1c8a51af0c70360.jpg",
+        "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/6188.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=O26iQ%2FFZw9BaJd2dsQyfBC1gxO0%3D",
+        "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/6188.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=VfNH7wNzkroFLLj9OoeHBfOL32I%3D",
         "alt": "赛博朋克高速战斗 CG Seedance 2.0 video prompt preview",
         "durationSeconds": 10
       },
@@ -2960,8 +2960,8 @@
       "prompt": "日本のハイクオリティな超高速バトルアニメ。参照画像のキャラの画風に合わせる。\n手前の白い服の天使が主人公。後ろの4人は敵キャラ。主人公が敵キャラ4人と戦いを繰り広げており、参照画像の背景を基調としたダークファンタジーの世界で次々に参照画像の敵キャラが画面右手前から超クローズアップで出てきて左に向けてそれぞれの個性的な武器で画面いっぱいに激しい派手なエフェクト（火・水・雷・土・光・闇・デジタル…など）や魔法陣や発光を伴う必殺技を様々なアクション性のあるキレのいいモーションで繰り出し、すぐ右奥に消えながら次のキャラが手前から出てきて入れ替わっていく。\n各キャラはインパクトの瞬間だけ一瞬超クローズアップでその場にとどまってキメポーズを見せまたすぐに高速移動でフレームアウトする。インパクトと共に画面は揺れる。\nカメラはアークショットで旋回しながら飛びまわり高速ドリーイン・ドリーアウトで各キャラに急速にフォーカスしダッチアングルでダイナミックに彼らを映す。1人の持ち時間は最大1秒。\n最後に参照画像の主人公が出てきて最終奥義を決めて敵キャラ全てを吹き飛ばして終わり。動きに緩急をつけてキレのある演出で。",
       "media": {
         "type": "video",
-        "url": "https://cms-assets.youmind.com/media/1781780519091_2hdvz0_High-Speed-Anime-Battle-Scene.mp4",
-        "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-5123f1af39c471a2f694.jpg",
+        "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/6164.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=VOwnXvnljqBWhdJnJSk5qQTTbJ0%3D",
+        "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/6164.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=Qbv0TVukwWs2DFrf%2FmRUzO310NI%3D",
         "alt": "高速动漫战斗场景 Seedance 2.0 video prompt preview",
         "durationSeconds": 1
       },
@@ -3421,8 +3421,8 @@
       "prompt": "Cinematic Netflix documentary, 16-second sequence, 16:9, ultra-photorealistic 8K, ARRI Alexa Mini LF, anamorphic lenses, subtle lens flares, organic film grain. Premium fitness documentary color grade with warm golden highlights, deep shadows, realistic skin",
       "media": {
         "type": "video",
-        "url": "https://cms-assets.youmind.com/media/1781838129094_h2eycd_Premium-Fitness-Documentary-Style.mp4",
-        "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-a88e86c58d4df2c8202f.jpg",
+        "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/5867.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=EiZ7OwPwqsXtqxzgAFowxXuWoaQ%3D",
+        "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/5867.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=f4pdM4nYN3syvRj40PQJs99fW2w%3D",
         "alt": "高端健身纪录片风格 Seedance 2.0 video prompt preview",
         "durationSeconds": null
       },
@@ -3720,8 +3720,8 @@
       "prompt": "Use the uploaded image as the only visual reference and starting frame.\nKeep the exact same character identity, face, hairstyle, outfit, accessories, colors, and anime style from the uploaded image.\n\nCreate a 15-second battle-anime-opening-style magical action scene.\nThe girl begins chanting a spell. Her eyes glow brighter, magical particles gather, and her hair and clothes sway in a rising magical wind. She raises one hand and glowing runes appear around her. A huge multi-layered magic circle forms in the sky above her, with many rotating rings, arcane symbols, and beams of light. The magic intensifies and summons fiery meteors. A meteor rain falls from the sky and explodes spectacularly in the distance with bright flashes, magical shockwaves, and glowing debris, while the girl remains protected in a powerful heroic casting pose at the center. High-quality anime, clean linework, soft cel shading, stable character consistency, cinematic scale, no extra characters, no text overlays.",
       "media": {
         "type": "video",
-        "url": "https://cms-assets.youmind.com/media/1781838224696_fpzsbk_Anime-Girl-Meteor-Magic-Transformation.mp4",
-        "thumbnailUrl": "https://cms-assets.youmind.com/media/video-covers/video-cover-e2abcbc2f16a1d20259b.jpg",
+        "url": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/videos/5818.mp4?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=C3plxiXIKkG0rF7gmAI%2B%2BMCHFL0%3D",
+        "thumbnailUrl": "https://cdn.imagepromptgallery.com/static-assets/seedance-2-0/thumbnails/5818.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=4102444800&Signature=6H6%2BLXjykztemE741WadX619A7o%3D",
         "alt": "动漫少女流星魔法变身 Seedance 2.0 video prompt preview",
         "durationSeconds": null
       },
