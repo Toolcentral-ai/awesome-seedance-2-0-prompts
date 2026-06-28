@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts/schema/seedance-2-0-video-prompt.schema.json",
+  "$id": "https://github.com/Toolcentral-ai/awesome-seedance-2-prompts/schema/seedance-2-0-video-prompt.schema.json",
   "title": "Open Seedance 2.0 Video Prompt Bundle",
   "type": "object",
   "required": [
