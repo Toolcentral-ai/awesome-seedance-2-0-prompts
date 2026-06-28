@@ -1,692 +1,692 @@
 {
-  "generatedAt": "2026-06-28T17:20:48.725368Z",
+  "generatedAt": "2026-06-28T17:47:13.446Z",
   "source": {
     "name": "Image Prompt Gallery",
     "url": "https://imagepromptgallery.com",
     "api": "https://imagepromptgallery.com/api/public/prompts?domain=video&model=seedance-2-0",
     "upstreamRepository": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
-    "openRepository": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
-    "exportSource": "public-content-api"
+    "openRepository": "https://github.com/Toolcentral-ai/awesome-seedance-2-prompts",
+    "exportSource": "snapshot-fallback"
   },
   "count": 113,
   "prompts": [
     {
-      "id": "case_seedance_2_0_5984",
-      "slug": "2d-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/2d-seedance-2-0",
-      "upstreamUrl": "https://x.com/patrickassale/status/2065432461077512682"
-    },
-    {
-      "id": "case_seedance_2_0_6270",
-      "slug": "don-bluth-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/don-bluth-seedance-2-0",
-      "upstreamUrl": "https://x.com/migrok293703/status/2068311058935091444"
-    },
-    {
-      "id": "case_seedance_2_0_5951",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/itsshara_ai/status/2065021850657468648"
-    },
-    {
-      "id": "case_seedance_2_0_6314",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/roco_kn_roco/status/2068448350278664693"
-    },
-    {
-      "id": "case_seedance_2_0_6358",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/therjrajesh/status/2069335488608285005"
-    },
-    {
-      "id": "case_seedance_2_0_6048",
-      "slug": "2d-mv-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/2d-mv-seedance-2-0",
-      "upstreamUrl": "https://x.com/anko1oo7/status/2066116179962548472"
-    },
-    {
-      "id": "case_seedance_2_0_6449",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/suji_pop/status/2070073666818527282"
-    },
-    {
-      "id": "case_seedance_2_0_6043",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/airina_xyz/status/2066159025331515590"
-    },
-    {
-      "id": "case_seedance_2_0_6556",
-      "slug": "seedance-video-prompt-seedance-2-0-6556",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0-6556",
-      "upstreamUrl": "https://x.com/roco_kn_roco/status/2070689572800057659"
-    },
-    {
-      "id": "case_seedance_2_0_6546",
-      "slug": "seedance-video-prompt-seedance-2-0-6546",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0-6546",
-      "upstreamUrl": "https://x.com/Just_sharon7/status/2070779942069993713"
-    },
-    {
-      "id": "case_seedance_2_0_6544",
-      "slug": "vlog-seedance-2-0-6544",
-      "caseUrl": "https://imagepromptgallery.com/cases/vlog-seedance-2-0-6544",
-      "upstreamUrl": "https://x.com/thisismariaa25/status/2070778437997150658"
-    },
-    {
-      "id": "case_seedance_2_0_dc994eb1c345",
-      "slug": "no-1-seedance-2-0-15-second-cinematic-japanese-romance-short-film-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/no-1-seedance-2-0-15-second-cinematic-japanese-romance-short-film-seedance-2-0",
-      "upstreamUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts#dc994eb1c345"
-    },
-    {
-      "id": "case_seedance_2_0_ff070320c988",
-      "slug": "no-2-hollywood-haute-couture-fantasy-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/no-2-hollywood-haute-couture-fantasy-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts#ff070320c988"
-    },
-    {
-      "id": "case_seedance_2_0_bd4ed44e0e82",
-      "slug": "no-3-modern-rural-aesthetics-healing-short-film-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/no-3-modern-rural-aesthetics-healing-short-film-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts#bd4ed44e0e82"
-    },
-    {
       "id": "case_seedance_2_0_0403577b0219",
       "slug": "no-4-live-action-anime-adaptation-water-vs-thunder-breathing-duel-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/no-4-live-action-anime-adaptation-water-vs-thunder-breathing-duel-seedance-2-0",
-      "upstreamUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts#0403577b0219"
-    },
-    {
-      "id": "case_seedance_2_0_7d0bb3ccecd7",
-      "slug": "no-5-seedance-2-0-80-year-old-rapper-mv-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/no-5-seedance-2-0-80-year-old-rapper-mv-seedance-2-0",
-      "upstreamUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts#7d0bb3ccecd7"
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
     },
     {
       "id": "case_seedance_2_0_1402",
       "slug": "seedance-2-0-15-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-2-0-15-seedance-2-0",
-      "upstreamUrl": "https://x.com/JiahaoYang_art/status/2033119940216344616"
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
     },
     {
       "id": "case_seedance_2_0_1403",
       "slug": "seedance-2-0-80-mv-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-2-0-80-mv-seedance-2-0",
-      "upstreamUrl": "https://x.com/songguoxiansen/status/2033175478765289598"
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
     },
     {
       "id": "case_seedance_2_0_189",
       "slug": "seedance-2-0-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-2-0-seedance-2-0",
-      "upstreamUrl": "https://x.com/johnAGI168/status/2021610292979876208"
-    },
-    {
-      "id": "case_seedance_2_0_594",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/johnAGI168/status/2025849650654122348"
-    },
-    {
-      "id": "case_seedance_2_0_288",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/johnAGI168/status/2021818021354848258"
-    },
-    {
-      "id": "case_seedance_2_0_6553",
-      "slug": "fpv-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/fpv-seedance-2-0",
-      "upstreamUrl": "https://x.com/jaynwabueze/status/2071125444653617635"
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
     },
     {
       "id": "case_seedance_2_0_2530",
       "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/CharaspowerAI/status/2039651574297792688"
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
     },
     {
-      "id": "case_seedance_2_0_6550",
+      "id": "case_seedance_2_0_288",
       "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/rhodezio_ai/status/2070932448121360384"
-    },
-    {
-      "id": "case_seedance_2_0_6549",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/unxinstudio/status/2070957204606468122"
-    },
-    {
-      "id": "case_seedance_2_0_6541",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/DeCat2025/status/2071008140733059515"
-    },
-    {
-      "id": "case_seedance_2_0_6532",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/AllaAisling/status/2071015218071630157"
-    },
-    {
-      "id": "case_seedance_2_0_6536",
-      "slug": "asmr-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/asmr-seedance-2-0",
-      "upstreamUrl": "https://x.com/Mr_AllenT/status/2070979299067203916"
-    },
-    {
-      "id": "case_seedance_2_0_6552",
-      "slug": "vlog-seedance-2-0-6552",
-      "caseUrl": "https://imagepromptgallery.com/cases/vlog-seedance-2-0-6552",
-      "upstreamUrl": "https://x.com/saniaspeaks_/status/2070838289230365139"
-    },
-    {
-      "id": "case_seedance_2_0_6305",
-      "slug": "15-ugc-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/15-ugc-seedance-2-0",
-      "upstreamUrl": "https://x.com/Inshrah_ali_/status/2068644113852076476"
-    },
-    {
-      "id": "case_seedance_2_0_4987",
-      "slug": "ai-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/ai-seedance-2-0",
-      "upstreamUrl": "https://x.com/meng_dagg695/status/2056217044887257340"
-    },
-    {
-      "id": "case_seedance_2_0_4794",
-      "slug": "ai-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/ai-seedance-2-0",
-      "upstreamUrl": "https://x.com/johnpanic44/status/2054977428091478204"
-    },
-    {
-      "id": "case_seedance_2_0_5697",
-      "slug": "stridex-ugc-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/stridex-ugc-seedance-2-0",
-      "upstreamUrl": "https://x.com/ShamsAmin56/status/2062493454371098774"
-    },
-    {
-      "id": "case_seedance_2_0_6145",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/PocketScreenAI/status/2067397135256207638"
-    },
-    {
-      "id": "case_seedance_2_0_6413",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/AmControo/status/2069685411371462709"
-    },
-    {
-      "id": "case_seedance_2_0_6176",
-      "slug": "ugc-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/ugc-seedance-2-0",
-      "upstreamUrl": "https://x.com/AIwithkhan/status/2067485614702989511"
-    },
-    {
-      "id": "case_seedance_2_0_5693",
-      "slug": "ugc-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/ugc-seedance-2-0",
-      "upstreamUrl": "https://x.com/CaliraVal/status/2062391667567767855"
-    },
-    {
-      "id": "case_seedance_2_0_6519",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/Adam38363368936/status/2070335010947883066"
-    },
-    {
-      "id": "case_seedance_2_0_6301",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/LudovicCreator/status/2068695526749458628"
-    },
-    {
-      "id": "case_seedance_2_0_6429",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/drjoetw/status/2069696739616108628"
-    },
-    {
-      "id": "case_seedance_2_0_6075",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/MayorKingAI/status/2066598459181035757"
-    },
-    {
-      "id": "case_seedance_2_0_5903",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/Zyrellix/status/2064710244026953911"
-    },
-    {
-      "id": "case_seedance_2_0_6162",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/YaReYaRu30Life/status/2067234735265661282"
-    },
-    {
-      "id": "case_seedance_2_0_6089",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/AI__TSUBAKI/status/2066574654660354157"
-    },
-    {
-      "id": "case_seedance_2_0_6445",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/auqibhabib/status/2070187062222025167"
-    },
-    {
-      "id": "case_seedance_2_0_6364",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/noorlewisx/status/2069351504012870102"
-    },
-    {
-      "id": "case_seedance_2_0_6420",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/AvelyrahnAI/status/2069714836796440904"
-    },
-    {
-      "id": "case_seedance_2_0_6465",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/HeyNayeem/status/2070137321836720399"
-    },
-    {
-      "id": "case_seedance_2_0_6411",
-      "slug": "fpv-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/fpv-seedance-2-0",
-      "upstreamUrl": "https://x.com/Marcus_Byrne/status/2069931150177673520"
-    },
-    {
-      "id": "case_seedance_2_0_6455",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/AvelyrahnAI/status/2069950934541889894"
-    },
-    {
-      "id": "case_seedance_2_0_6506",
-      "slug": "80-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/80-seedance-2-0",
-      "upstreamUrl": "https://x.com/apob_ai/status/2070462312797163975"
-    },
-    {
-      "id": "case_seedance_2_0_6432",
-      "slug": "x-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/x-seedance-2-0",
-      "upstreamUrl": "https://x.com/Naonekozamurai/status/2069895844816708013"
-    },
-    {
-      "id": "case_seedance_2_0_6450",
-      "slug": "zareya-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/zareya-seedance-2-0",
-      "upstreamUrl": "https://x.com/itsPixieVerse/status/2069939532213137720"
-    },
-    {
-      "id": "case_seedance_2_0_6503",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/CamikaApp/status/2070454423302897823"
-    },
-    {
-      "id": "case_seedance_2_0_6548",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/panggilajabruh/status/2070916383026872690"
-    },
-    {
-      "id": "case_seedance_2_0_6520",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/prompt_soru/status/2070724203872239697"
-    },
-    {
-      "id": "case_seedance_2_0_6433",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/tokyo_Valentine/status/2069979810017980629"
-    },
-    {
-      "id": "case_seedance_2_0_6537",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/Alin_Reaper05/status/2070773542795247814"
-    },
-    {
-      "id": "case_seedance_2_0_6456",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/CaliraVal/status/2070051671057809832"
-    },
-    {
-      "id": "case_seedance_2_0_6442",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/AvelyrahnAI/status/2070072435676758179"
-    },
-    {
-      "id": "case_seedance_2_0_6547",
-      "slug": "vlog-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/vlog-seedance-2-0",
-      "upstreamUrl": "https://x.com/Aqsahere_/status/2070884668216348955"
-    },
-    {
-      "id": "case_seedance_2_0_6378",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/sebatheepan/status/2069459568548036760"
-    },
-    {
-      "id": "case_seedance_2_0_6371",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/MrDavids1/status/2069465397305172114"
-    },
-    {
-      "id": "case_seedance_2_0_6534",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/LudovicCreator/status/2070930183347896702"
-    },
-    {
-      "id": "case_seedance_2_0_6555",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/CamikaApp/status/2070453916030922916"
-    },
-    {
-      "id": "case_seedance_2_0_6444",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/IqraSaifiii/status/2070185217080651839"
-    },
-    {
-      "id": "case_seedance_2_0_6476",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/LudovicCreator/status/2070235633826570483"
-    },
-    {
-      "id": "case_seedance_2_0_6408",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/MystiqueLicorne/status/2069792010228158641"
-    },
-    {
-      "id": "case_seedance_2_0_6440",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/abulu8/status/2070172701520711781"
-    },
-    {
-      "id": "case_seedance_2_0_6424",
-      "slug": "pov-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/pov-seedance-2-0",
-      "upstreamUrl": "https://x.com/MoreDhax/status/2069851901232112116"
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
     },
     {
       "id": "case_seedance_2_0_4441",
       "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/Soulmotionlabs/status/2052847150925516830"
-    },
-    {
-      "id": "case_seedance_2_0_6446",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/harboriis/status/2070128476875849874"
-    },
-    {
-      "id": "case_seedance_2_0_6003",
-      "slug": "360-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/360-seedance-2-0",
-      "upstreamUrl": "https://x.com/Soulmotionlabs/status/2065896420658528468"
-    },
-    {
-      "id": "case_seedance_2_0_4890",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/Soulmotionlabs/status/2055718877087326330"
-    },
-    {
-      "id": "case_seedance_2_0_5333",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/chetaslua/status/2059691328934682903"
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
     },
     {
       "id": "case_seedance_2_0_4513",
       "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/ibexdream/status/2053221688905482738"
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
     },
     {
       "id": "case_seedance_2_0_4553",
       "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/YaReYaRu30Life/status/2053303209456976296"
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
     },
     {
-      "id": "case_seedance_2_0_6535",
+      "id": "case_seedance_2_0_4794",
+      "slug": "ai-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_4890",
       "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/_YashalAli/status/2070806276766941259"
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
     },
     {
-      "id": "case_seedance_2_0_6366",
-      "slug": "fpv-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/fpv-seedance-2-0",
-      "upstreamUrl": "https://x.com/TheOrdering/status/2069568718292873531"
+      "id": "case_seedance_2_0_4987",
+      "slug": "ai-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
     },
     {
-      "id": "case_seedance_2_0_6497",
+      "id": "case_seedance_2_0_5333",
       "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/MrDasOnX/status/2070355225911906435"
-    },
-    {
-      "id": "case_seedance_2_0_6545",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/AvelyrahnAI/status/2070740314575557094"
-    },
-    {
-      "id": "case_seedance_2_0_6539",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/ivanka_humeniuk/status/2070706183585874239"
-    },
-    {
-      "id": "case_seedance_2_0_6104",
-      "slug": "monster-energy-rafael-leao-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/monster-energy-rafael-leao-seedance-2-0",
-      "upstreamUrl": "https://x.com/sebatheepan/status/2066683781898010678"
-    },
-    {
-      "id": "case_seedance_2_0_6296",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/CharaspowerAI/status/2068952150516892083"
-    },
-    {
-      "id": "case_seedance_2_0_5955",
-      "slug": "logo-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/logo-seedance-2-0",
-      "upstreamUrl": "https://x.com/AutoIntelliMode/status/2065067781578780981"
-    },
-    {
-      "id": "case_seedance_2_0_5938",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/CharaspowerAI/status/2065096739694989326"
-    },
-    {
-      "id": "case_seedance_2_0_6264",
-      "slug": "gta-6-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/gta-6-seedance-2-0",
-      "upstreamUrl": "https://x.com/oggii_0/status/2068191740780294183"
-    },
-    {
-      "id": "case_seedance_2_0_6191",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/tokyo_Valentine/status/2067812443951370604"
-    },
-    {
-      "id": "case_seedance_2_0_6188",
-      "slug": "cg-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/cg-seedance-2-0",
-      "upstreamUrl": "https://x.com/dye_saint64567/status/2067646336930033738"
-    },
-    {
-      "id": "case_seedance_2_0_6164",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/Naonekozamurai/status/2067184091121013095"
-    },
-    {
-      "id": "case_seedance_2_0_6531",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/aimikoda/status/2070908760386687400"
-    },
-    {
-      "id": "case_seedance_2_0_6530",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/Caden_Flux/status/2070862852735594771"
-    },
-    {
-      "id": "case_seedance_2_0_6540",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/chrisfirst/status/2070927180352106508"
-    },
-    {
-      "id": "case_seedance_2_0_6554",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/johnAGI168/status/2070846694808244375"
-    },
-    {
-      "id": "case_seedance_2_0_6426",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/MrDasOnX/status/2069681211601998058"
-    },
-    {
-      "id": "case_seedance_2_0_6471",
-      "slug": "pov-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/pov-seedance-2-0",
-      "upstreamUrl": "https://x.com/john87445528/status/2070119464184500461"
-    },
-    {
-      "id": "case_seedance_2_0_6467",
-      "slug": "4k-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/4k-seedance-2-0",
-      "upstreamUrl": "https://x.com/nrx838/status/2070256560714998201"
-    },
-    {
-      "id": "case_seedance_2_0_6513",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/BrentLynch/status/2070590870148223028"
-    },
-    {
-      "id": "case_seedance_2_0_6466",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/HeyNayeem/status/2070137327276708066"
-    },
-    {
-      "id": "case_seedance_2_0_6509",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/Strength04_X/status/2070471862522695793"
-    },
-    {
-      "id": "case_seedance_2_0_6499",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/navi_Ai2/status/2070519030239355069"
-    },
-    {
-      "id": "case_seedance_2_0_6551",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/rhodezio_ai/status/2070790740389884276"
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
     },
     {
       "id": "case_seedance_2_0_5624",
       "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/h64g_/status/2061788236213895455"
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
     },
     {
-      "id": "case_seedance_2_0_5867",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/Diplomeme/status/2064388273234129204"
+      "id": "case_seedance_2_0_5693",
+      "slug": "ugc-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
     },
     {
-      "id": "case_seedance_2_0_6441",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/AllaAisling/status/2070264773107965982"
-    },
-    {
-      "id": "case_seedance_2_0_6492",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/LudovicCreator/status/2070598061768741246"
-    },
-    {
-      "id": "case_seedance_2_0_6508",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/AvelyrahnAI/status/2070315771813884044"
-    },
-    {
-      "id": "case_seedance_2_0_6514",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/cipgerx/status/2070489231214973347"
-    },
-    {
-      "id": "case_seedance_2_0_6474",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/Yonohitomi/status/2070098384061604195"
-    },
-    {
-      "id": "case_seedance_2_0_6511",
-      "slug": "dj-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/dj-seedance-2-0",
-      "upstreamUrl": "https://x.com/Sogni_Protocol/status/2070363942564634863"
-    },
-    {
-      "id": "case_seedance_2_0_6505",
-      "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/Strength04_X/status/2070503760321749468"
-    },
-    {
-      "id": "case_seedance_2_0_6417",
-      "slug": "k-pop-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/k-pop-seedance-2-0",
-      "upstreamUrl": "https://x.com/apob_ai/status/2069707257772908934"
+      "id": "case_seedance_2_0_5697",
+      "slug": "stridex-ugc-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
     },
     {
       "id": "case_seedance_2_0_5818",
       "slug": "seedance-video-prompt-seedance-2-0",
-      "caseUrl": "https://imagepromptgallery.com/cases/seedance-video-prompt-seedance-2-0",
-      "upstreamUrl": "https://x.com/Toshi_nyaruo_AI/status/2063896404079387073"
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_5867",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_5903",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_5938",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_594",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_5951",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_5955",
+      "slug": "logo-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_5984",
+      "slug": "2d-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6003",
+      "slug": "360-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6043",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6048",
+      "slug": "2d-mv-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6075",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6089",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6104",
+      "slug": "monster-energy-rafael-leao-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6145",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6162",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6164",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6176",
+      "slug": "ugc-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6188",
+      "slug": "cg-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6191",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6264",
+      "slug": "gta-6-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6270",
+      "slug": "don-bluth-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6296",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6301",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6305",
+      "slug": "15-ugc-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6314",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6358",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6364",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6366",
+      "slug": "fpv-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6371",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6378",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6408",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6411",
+      "slug": "fpv-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6413",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6417",
+      "slug": "k-pop-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6420",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6424",
+      "slug": "pov-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6426",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6429",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6432",
+      "slug": "x-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6433",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6440",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6441",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6442",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6444",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6445",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6446",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6449",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6450",
+      "slug": "zareya-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6455",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6456",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6465",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6466",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6467",
+      "slug": "4k-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6471",
+      "slug": "pov-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6474",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6476",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6492",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6497",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6499",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6503",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6505",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6506",
+      "slug": "80-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6508",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6509",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6511",
+      "slug": "dj-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6513",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6514",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6519",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6520",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6530",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6531",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6532",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6534",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6535",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6536",
+      "slug": "asmr-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6537",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6539",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6540",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6541",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6544",
+      "slug": "vlog-seedance-2-0-6544",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6545",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6546",
+      "slug": "seedance-video-prompt-seedance-2-0-6546",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6547",
+      "slug": "vlog-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6548",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6549",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6550",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6551",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6552",
+      "slug": "vlog-seedance-2-0-6552",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6553",
+      "slug": "fpv-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6554",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6555",
+      "slug": "seedance-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_6556",
+      "slug": "seedance-video-prompt-seedance-2-0-6556",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_7d0bb3ccecd7",
+      "slug": "no-5-seedance-2-0-80-year-old-rapper-mv-seedance-2-0",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_bd4ed44e0e82",
+      "slug": "no-3-modern-rural-aesthetics-healing-short-film-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_dc994eb1c345",
+      "slug": "no-1-seedance-2-0-15-second-cinematic-japanese-romance-short-film-seedance-2-0",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    {
+      "id": "case_seedance_2_0_ff070320c988",
+      "slug": "no-2-hollywood-haute-couture-fantasy-video-prompt-seedance-2-0",
+      "caseUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-0-prompts",
+      "upstreamUrl": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
     }
   ]
 }
